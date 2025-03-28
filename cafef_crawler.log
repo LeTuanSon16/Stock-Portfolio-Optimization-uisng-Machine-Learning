@@ -1,0 +1,349 @@
+2025-03-28 22:25:13,510 - INFO - Crawling links from: https://cafef.vn/thi-truong-chung-khoan.chn (up to 10 pages)
+2025-03-28 22:25:13,511 - INFO - Extracted category ID: 18831
+2025-03-28 22:25:13,511 - INFO - Crawling first page: https://cafef.vn/thi-truong-chung-khoan.chn
+2025-03-28 22:25:13,603 - INFO - Found 25 links on first page
+2025-03-28 22:25:13,603 - INFO - Crawling page 2 via API: https://m.cafef.vn/timelinelist/18831/2.chn
+2025-03-28 22:25:13,696 - INFO - Found 15 article containers in API response
+2025-03-28 22:25:13,699 - INFO - Found 6 new links on page 2
+2025-03-28 22:25:15,004 - INFO - Crawling page 3 via API: https://m.cafef.vn/timelinelist/18831/3.chn
+2025-03-28 22:25:15,106 - INFO - Found 15 article containers in API response
+2025-03-28 22:25:15,110 - INFO - Found 15 new links on page 3
+2025-03-28 22:25:16,432 - INFO - Crawling page 4 via API: https://m.cafef.vn/timelinelist/18831/4.chn
+2025-03-28 22:25:16,503 - INFO - Found 15 article containers in API response
+2025-03-28 22:25:16,504 - INFO - Found 14 new links on page 4
+2025-03-28 22:25:18,194 - INFO - Crawling page 5 via API: https://m.cafef.vn/timelinelist/18831/5.chn
+2025-03-28 22:25:18,270 - INFO - Found 15 article containers in API response
+2025-03-28 22:25:18,273 - INFO - Found 15 new links on page 5
+2025-03-28 22:25:20,178 - INFO - Crawling page 6 via API: https://m.cafef.vn/timelinelist/18831/6.chn
+2025-03-28 22:25:20,359 - INFO - Found 15 article containers in API response
+2025-03-28 22:25:20,360 - INFO - Found 15 new links on page 6
+2025-03-28 22:25:21,892 - INFO - Crawling page 7 via API: https://m.cafef.vn/timelinelist/18831/7.chn
+2025-03-28 22:25:22,105 - INFO - Found 15 article containers in API response
+2025-03-28 22:25:22,107 - INFO - Found 15 new links on page 7
+2025-03-28 22:25:23,143 - INFO - Crawling page 8 via API: https://m.cafef.vn/timelinelist/18831/8.chn
+2025-03-28 22:25:23,289 - INFO - Found 15 article containers in API response
+2025-03-28 22:25:23,291 - INFO - Found 15 new links on page 8
+2025-03-28 22:25:24,368 - INFO - Crawling page 9 via API: https://m.cafef.vn/timelinelist/18831/9.chn
+2025-03-28 22:25:24,447 - INFO - Found 15 article containers in API response
+2025-03-28 22:25:24,449 - INFO - Found 15 new links on page 9
+2025-03-28 22:25:26,388 - INFO - Crawling page 10 via API: https://m.cafef.vn/timelinelist/18831/10.chn
+2025-03-28 22:25:26,546 - INFO - Found 15 article containers in API response
+2025-03-28 22:25:26,547 - INFO - Found 15 new links on page 10
+2025-03-28 22:25:26,548 - INFO - Found 150 article links
+2025-03-28 22:25:26,549 - INFO - Processing article 1/150: https://cafef.vn/trai-nguoc-voi-pyn-elite-fund-lo-ngai-bong-bong-cong-nghe-mot-quy-ngoai-van-dat-niem-tin-lon-vao-fpt-188250328102639751.chn
+2025-03-28 22:25:26,629 - INFO - Successfully extracted article 1
+2025-03-28 22:25:29,128 - INFO - Processing article 2/150: https://cafef.vn/cuoc-lon-vao-fpt-bo-quen-nhom-vingroup-hieu-suat-cac-quy-mo-thua-xa-vn-index-188250326220622134.chn
+2025-03-28 22:25:29,209 - INFO - Successfully extracted article 2
+2025-03-28 22:25:31,648 - INFO - Processing article 3/150: https://cafef.vn/tien-vao-chung-khoan-bat-ngo-xuong-thap-nhat-15-thang-nha-dau-tu-dang-lo-ngai-dieu-gi-188250327231900445.chn
+2025-03-28 22:25:31,742 - INFO - Successfully extracted article 3
+2025-03-28 22:25:34,681 - INFO - Processing article 4/150: https://cafef.vn/chung-khoan-khu-vuc-lao-dao-vi-vu-dong-dat-manh-o-myanmar-188250328215734224.chn
+2025-03-28 22:25:34,770 - INFO - Successfully extracted article 4
+2025-03-28 22:25:37,605 - INFO - Processing article 5/150: https://cafef.vn/cong-ty-con-trai-ty-phu-pham-nhat-vuong-vua-co-hop-dong-lon-thue-bao-nhieu-xe-vinfast-18825032817252551.chn
+2025-03-28 22:25:37,685 - INFO - Successfully extracted article 5
+2025-03-28 22:25:38,971 - INFO - Processing article 6/150: https://cafef.vn/chung-khoan-mat-moc-1320-diem-sau-5-lan-thu-thach-188250328180314862.chn
+2025-03-28 22:25:39,054 - INFO - Successfully extracted article 6
+2025-03-28 22:25:41,379 - INFO - Processing article 7/150: https://cafef.vn/mot-ma-chung-khoan-bi-tu-doanh-ctck-xa-hang-tram-ty-trong-phien-cuoi-tuan-188250328180210449.chn
+2025-03-28 22:26:02,513 - INFO - Successfully extracted article 7
+2025-03-28 22:26:04,078 - INFO - Processing article 8/150: https://cafef.vn/chung-khoan-thai-lan-tam-dung-moi-hoat-dong-sau-tran-dong-dat-tai-myanmar-188250328164242229.chn
+2025-03-28 22:26:04,261 - INFO - Successfully extracted article 8
+2025-03-28 22:26:06,287 - INFO - Processing article 9/150: https://cafef.vn/phien-28-3-khoi-ngoai-tiep-da-ban-rong-hon-450-ty-nguoc-chieu-chi-hang-tram-ty-gom-loat-co-phieu-chung-khoan-188250328152108182.chn
+2025-03-28 22:26:06,448 - INFO - Successfully extracted article 9
+2025-03-28 22:26:09,054 - INFO - Processing article 10/150: https://cafef.vn/nganh-quy-chi-chiem-6-gdp-chu-tich-ubcknn-neu-5-giai-phap-trong-tam-thuc-day-tang-truong-188250328152249799.chn
+2025-03-28 22:26:09,126 - INFO - Successfully extracted article 10
+2025-03-28 22:26:09,127 - INFO - Saved intermediate results (10 articles) to cafef_stock_articles.json
+2025-03-28 22:26:11,967 - INFO - Processing article 11/150: https://cafef.vn/sap-co-thay-doi-lon-lien-quan-den-san-giao-dich-tien-ao-188250328142645964.chn
+2025-03-28 22:26:12,031 - INFO - Successfully extracted article 11
+2025-03-28 22:26:14,679 - INFO - Processing article 12/150: https://cafef.vn/dic-corp-dig-tham-vong-loi-nhuan-2025-cao-gap-gan-5-lan-tiep-tuc-len-phuong-an-chao-ban-150-trieu-co-phieu-gia-12000-dong-188250328142744682.chn
+2025-03-28 22:26:14,768 - INFO - Successfully extracted article 12
+2025-03-28 22:26:17,085 - INFO - Processing article 13/150: https://cafef.vn/thai-son-thanh-toan-lai-cho-lo-trai-phieu-gan-1900-ty-dong-188250328101025313.chn
+2025-03-28 22:26:17,176 - INFO - Successfully extracted article 13
+2025-03-28 22:26:19,382 - INFO - Processing article 14/150: https://cafef.vn/vua-phat-hanh-gan-3-thang-nang-luong-tai-tao-da-tat-toan-lo-trai-phieu-1000-ty-dong-188250328100940686.chn
+2025-03-28 22:26:19,466 - INFO - Successfully extracted article 14
+2025-03-28 22:26:22,238 - INFO - Processing article 15/150: https://cafef.vn/sovico-du-chi-500-ty-mua-lai-trai-phieu-188250328101108678.chn
+2025-03-28 22:26:22,320 - INFO - Successfully extracted article 15
+2025-03-28 22:26:24,830 - INFO - Processing article 16/150: https://cafef.vn/tai-san-so-chua-dung-rui-ro-ve-rua-tien-khung-bo-188250328101306728.chn
+2025-03-28 22:26:24,912 - INFO - Successfully extracted article 16
+2025-03-28 22:26:27,118 - INFO - Processing article 17/150: https://cafef.vn/ninh-van-bay-khac-phuc-tinh-trang-chung-khoan-bi-canh-bao-ra-sao-188250328100754787.chn
+2025-03-28 22:26:48,231 - INFO - Successfully extracted article 17
+2025-03-28 22:26:50,117 - INFO - Processing article 18/150: https://cafef.vn/choi-lon-tra-co-tuc-khung-480-doanh-nghiep-co-thi-gia-dat-nhat-san-hose-lien-tiep-kich-tran-len-sat-dinh-lich-su-188250328104010942.chn
+2025-03-28 22:27:11,269 - INFO - Successfully extracted article 18
+2025-03-28 22:27:13,760 - INFO - Processing article 19/150: https://cafef.vn/cu-hoi-sinh-100-ty-usd-cua-alibaba-co-phieu-am-tham-tang-60-jack-ma-cong-khai-xuat-hien-188250328103008259.chn
+2025-03-28 22:27:13,870 - INFO - Successfully extracted article 19
+2025-03-28 22:27:16,815 - INFO - Processing article 20/150: https://cafef.vn/cong-ty-bat-dong-san-vua-thay-mau-dan-lanh-dao-kiem-toan-nghi-ngo-hoat-dong-lien-tuc-ganh-lo-luy-ke-hon-nghin-ty-188250328100102311.chn
+2025-03-28 22:27:16,887 - INFO - Successfully extracted article 20
+2025-03-28 22:27:16,889 - INFO - Saved intermediate results (20 articles) to cafef_stock_articles.json
+2025-03-28 22:27:19,170 - INFO - Processing article 21/150: https://cafef.vn/nganh-xay-dung-du-bao-dong-tien-hoat-dong-cai-thien-vao-nam-2025-188250328100016887.chn
+2025-03-28 22:27:19,271 - INFO - Successfully extracted article 21
+2025-03-28 22:27:20,637 - INFO - Processing article 22/150: https://cafef.vn/haxaco-chot-ngay-chia-co-tuc-nam-2024-bang-tien-mat-ty-le-10-18825032722350109.chn
+2025-03-28 22:27:20,727 - INFO - Successfully extracted article 22
+2025-03-28 22:27:22,809 - INFO - Processing article 23/150: https://cafef.vn/lich-su-kien-va-tin-van-chung-khoan-ngay-28-3-2025-188250327223027113.chn
+2025-03-28 22:27:22,899 - INFO - Successfully extracted article 23
+2025-03-28 22:27:25,794 - INFO - Processing article 24/150: https://cafef.vn/mbs-uoc-tinh-kqkd-quy-1-2025-cua-56-doanh-nghiep-hot-vhm-kbc-frt-hah-dbc-du-bao-lai-tang-dot-bien-nhieu-dai-gia-dau-nganh-co-the-di-lui-188250328001823033.chn
+2025-03-28 22:27:25,884 - INFO - Successfully extracted article 24
+2025-03-28 22:27:27,262 - INFO - Processing article 25/150: https://cafef.vn/chuyen-gi-day-mot-co-phieu-vua-chung-kien-lan-thu-12-vuot-dinh-tu-dau-nam-188250327223853059.chn
+2025-03-28 22:27:27,371 - INFO - Successfully extracted article 25
+2025-03-28 22:27:29,113 - INFO - Processing article 26/150: https://cafef.vn/du-phong-kqkd-quy-1-2025-nhom-ngan-hang-loat-ten-tuoi-but-pha-techcombank-cua-ong-ho-hung-anh-vuot-troi-188250327222846268.chn
+2025-03-28 22:27:29,181 - INFO - Successfully extracted article 26
+2025-03-28 22:27:31,239 - INFO - Processing article 27/150: https://cafef.vn/ba-truong-my-lan-neu-phuong-an-khac-phuc-thiet-hai-cho-trai-chu-188250327223158646.chn
+2025-03-28 22:27:31,363 - INFO - Successfully extracted article 27
+2025-03-28 22:27:34,142 - INFO - Processing article 28/150: https://cafef.vn/chung-khoan-ngay-mai-28-3-nha-dau-tu-co-the-di-theo-xu-huong-dong-tien-188250327220407008.chn
+2025-03-28 22:27:34,250 - INFO - Successfully extracted article 28
+2025-03-28 22:27:35,897 - INFO - Processing article 29/150: https://cafef.vn/quy-dat-sach-tao-suc-bat-cho-becamex-188250327184951662.chn
+2025-03-28 22:27:35,990 - INFO - Successfully extracted article 29
+2025-03-28 22:27:38,265 - INFO - Processing article 30/150: https://cafef.vn/co-phieu-ngan-hang-tang-manh-nhat-phien-27-3-goi-ten-shb-von-hoa-vuot-2-ty-usd-188250327171704721.chn
+2025-03-28 22:27:38,349 - INFO - Successfully extracted article 30
+2025-03-28 22:27:38,352 - INFO - Saved intermediate results (30 articles) to cafef_stock_articles.json
+2025-03-28 22:27:40,530 - INFO - Processing article 31/150: https://cafef.vn/mot-ma-chung-khoan-lien-tuc-duoc-tu-doanh-ctck-gom-hang-tram-ty-188250327171558983.chn
+2025-03-28 22:27:40,601 - INFO - Successfully extracted article 31
+2025-03-28 22:27:42,760 - INFO - Processing article 32/150: https://cafef.vn/chung-khoan-eo-uot-nhom-co-phieu-tao-song-mat-hut-18825032716570143.chn
+2025-03-28 22:27:42,834 - INFO - Successfully extracted article 32
+2025-03-28 22:27:43,934 - INFO - Processing article 33/150: https://cafef.vn/ong-trum-bat-dong-san-kcn-sap-chi-gan-500-ty-dong-tra-co-tuc-188250327162423457.chn
+2025-03-28 22:27:44,021 - INFO - Successfully extracted article 33
+2025-03-28 22:27:45,208 - INFO - Processing article 34/150: https://cafef.vn/dai-dien-hiep-hoi-blockchain-co-san-giao-dich-tien-so-giao-kpi-cho-nhan-vien-phai-dat-khoi-luong-giao-dich-15-ty-usd-moi-quy-18825032716050662.chn
+2025-03-28 22:27:45,294 - INFO - Successfully extracted article 34
+2025-03-28 22:27:47,969 - INFO - Processing article 35/150: https://cafef.vn/phien-27-3-khoi-ngoai-giam-ban-tro-lai-mua-rong-fpt-188250327152425527.chn
+2025-03-28 22:27:48,045 - INFO - Successfully extracted article 35
+2025-03-28 22:27:50,734 - INFO - Processing article 36/150: https://cafef.vn/fpt-khai-truong-trung-tam-rd-ve-cong-nghe-cao-va-chip-ban-dan-tai-da-nang-huong-toi-ke-hoach-tro-thanh-silicon-bay-cua-viet-nam-188250327152113134.chn
+2025-03-28 22:27:50,840 - INFO - Successfully extracted article 36
+2025-03-28 22:27:52,569 - INFO - Processing article 37/150: https://cafef.vn/giao-xay-dung-du-thao-nghi-quyet-thi-diem-thi-truong-tien-ma-hoa-uy-ban-chung-khoan-noi-gi-1882503271455075.chn
+2025-03-28 22:27:52,649 - INFO - Successfully extracted article 37
+2025-03-28 22:27:53,743 - INFO - Processing article 38/150: https://cafef.vn/thi-truong-chung-khoan-viet-nam-len-hang-ngu-ong-nao-dac-loi-18825032714522091.chn
+2025-03-28 22:27:53,813 - INFO - Successfully extracted article 38
+2025-03-28 22:27:56,519 - INFO - Processing article 39/150: https://cafef.vn/mot-doanh-nghiep-trinh-phuong-an-tra-co-tuc-tien-mat-48000-dong-cp-188250327143724819.chn
+2025-03-28 22:27:56,595 - INFO - Successfully extracted article 39
+2025-03-28 22:27:58,711 - INFO - Processing article 40/150: https://cafef.vn/co-dong-lon-nhat-cua-mot-doanh-nghiep-niem-yet-chua-the-thoai-bot-von-do-thieu-nguoi-mua-188250327134953016.chn
+2025-03-28 22:27:58,790 - INFO - Successfully extracted article 40
+2025-03-28 22:27:58,795 - INFO - Saved intermediate results (40 articles) to cafef_stock_articles.json
+2025-03-28 22:28:00,160 - INFO - Processing article 41/150: https://cafef.vn/gelex-se-khong-tham-gia-dieu-hanh-eximbank-18825032713331714.chn
+2025-03-28 22:28:00,233 - INFO - Successfully extracted article 41
+2025-03-28 22:28:02,955 - INFO - Processing article 42/150: https://cafef.vn/vo-chu-tich-cong-ty-chung-khoan-tan-viet-noi-ve-tai-san-cua-nguoi-chong-da-mat-188250327132950378.chn
+2025-03-28 22:28:03,134 - INFO - Successfully extracted article 42
+2025-03-28 22:28:05,567 - INFO - Processing article 43/150: https://cafef.vn/dai-dien-becamex-idc-he-lo-ly-do-lego-chon-vsip-3-de-dat-nha-may-trung-hoa-carbon-dau-tien-18825032713110427.chn
+2025-03-28 22:28:05,646 - INFO - Successfully extracted article 43
+2025-03-28 22:28:07,678 - INFO - Processing article 44/150: https://cafef.vn/ctck-uoc-tinh-kqkd-quy-1-2025-cua-17-doanh-nghiep-bat-dong-san-hot-loat-ten-tuoi-ky-vong-lai-dot-bien-vinhomes-co-the-tang-truong-hon-1200-188250327115140944.chn
+2025-03-28 22:28:07,754 - INFO - Successfully extracted article 44
+2025-03-28 22:28:10,356 - INFO - Processing article 45/150: https://cafef.vn/cong-ty-chung-khoan-cua-mb-bank-muon-huy-dong-1000-ty-dong-trai-phieu-188250327110836684.chn
+2025-03-28 22:28:10,603 - INFO - Successfully extracted article 45
+2025-03-28 22:28:12,113 - INFO - Processing article 46/150: https://cafef.vn/mot-cong-ty-cua-ty-phu-nguyen-dang-quang-vua-tang-von-len-hon-10000-ty-co-phieu-bat-ngo-tang-vot-188250327110532845.chn
+2025-03-28 22:28:12,264 - INFO - Successfully extracted article 46
+2025-03-28 22:28:13,681 - INFO - Processing article 47/150: https://cafef.vn/dragon-capital-de-xuat-token-hoa-etf-tai-viet-nam-188250327105727452.chn
+2025-03-28 22:28:13,812 - INFO - Successfully extracted article 47
+2025-03-28 22:28:15,262 - INFO - Processing article 48/150: https://cafef.vn/vinpearl-truoc-them-niem-yet-muc-tieu-loi-nhuan-di-lui-du-kien-khong-chia-co-tuc-188250327103838029.chn
+2025-03-28 22:28:15,344 - INFO - Successfully extracted article 48
+2025-03-28 22:28:17,139 - INFO - Processing article 49/150: https://cafef.vn/doanh-nghiep-kinh-doanh-vang-ma-duy-nhat-len-san-dang-lam-an-ra-sao-188250327091049989.chn
+2025-03-28 22:28:17,329 - INFO - Successfully extracted article 49
+2025-03-28 22:28:18,861 - INFO - Processing article 50/150: https://cafef.vn/lich-su-kien-va-tin-van-chung-khoan-ngay-27-3-2025-18825032701202335.chn
+2025-03-28 22:28:19,100 - INFO - Successfully extracted article 50
+2025-03-28 22:28:19,103 - INFO - Saved intermediate results (50 articles) to cafef_stock_articles.json
+2025-03-28 22:28:21,590 - INFO - Processing article 51/150: https://cafef.vn/chu-tich-mot-cong-ty-thep-dung-top-4-thi-truong-bat-ngo-xin-tu-nhiem-188250326233002781.chn
+2025-03-28 22:28:21,731 - INFO - Successfully extracted article 51
+2025-03-28 22:28:24,714 - INFO - Processing article 52/150: https://cafef.vn/ctck-chi-ra-2-loi-the-canh-tranh-giup-chuoi-nha-thuoc-long-chau-cua-fpt-retail-duy-tri-vi-the-ap-dao-188250326221259825.chn
+2025-03-28 22:28:24,805 - INFO - Successfully extracted article 52
+2025-03-28 22:28:26,039 - INFO - Processing article 53/150: https://cafef.vn/mot-cong-ty-tren-san-gop-von-cung-benh-vien-tinh-ram-ro-mo-chuoi-phong-kham-xet-nghiem-tren-toan-quoc-co-phieu-o-muc-gia-tra-da-188250326221203108.chn
+2025-03-28 22:28:26,207 - INFO - Successfully extracted article 53
+2025-03-28 22:28:28,062 - INFO - Processing article 54/150: https://cafef.vn/lilama-10-bi-xu-phat-do-vi-pham-lien-quan-den-thue-188250326140337282.chn
+2025-03-28 22:28:33,474 - INFO - Successfully extracted article 54
+2025-03-28 22:28:36,102 - INFO - Processing article 55/150: https://cafef.vn/hai-ma-chung-khoan-bat-ngo-duoc-tu-doanh-ctck-gom-hang-tram-ty-trong-phien-26-3-188250326172239157.chn
+2025-03-28 22:28:36,244 - INFO - Successfully extracted article 55
+2025-03-28 22:28:38,937 - INFO - Processing article 56/150: https://cafef.vn/gelex-electric-gee-co-tan-chu-tich-thay-ong-nguyen-van-tuan-188250326172003066.chn
+2025-03-28 22:28:39,118 - INFO - Successfully extracted article 56
+2025-03-28 22:28:40,857 - INFO - Processing article 57/150: https://cafef.vn/ngan-hang-nao-dang-la-chu-no-hon-6200-ti-dong-cua-thep-pomina-188250326165439819.chn
+2025-03-28 22:28:41,016 - INFO - Successfully extracted article 57
+2025-03-28 22:28:43,547 - INFO - Processing article 58/150: https://cafef.vn/vingroup-khoi-cong-sieu-du-an-dau-tien-tai-long-an-188250326165056149.chn
+2025-03-28 22:28:43,695 - INFO - Successfully extracted article 58
+2025-03-28 22:28:44,847 - INFO - Processing article 59/150: https://cafef.vn/ong-trum-cong-nghe-boc-hoi-17-ty-usd-188250326164931145.chn
+2025-03-28 22:28:45,023 - INFO - Successfully extracted article 59
+2025-03-28 22:28:47,199 - INFO - Processing article 60/150: https://cafef.vn/mot-thuong-hieu-ban-do-uong-noi-tieng-lam-ra-bao-nhieu-loi-nhuan-chia-het-co-tuc-bay-nhieu-188250326163746201.chn
+2025-03-28 22:28:47,411 - INFO - Successfully extracted article 60
+2025-03-28 22:28:47,416 - INFO - Saved intermediate results (60 articles) to cafef_stock_articles.json
+2025-03-28 22:28:49,376 - INFO - Processing article 61/150: https://cafef.vn/fpt-hop-tac-voi-dia-phuong-duoc-han-quoc-dau-tu-hon-370-ty-usd-lam-trung-tam-san-xuat-chip-toan-cau-188250326154658956.chn
+2025-03-28 22:28:49,527 - INFO - Successfully extracted article 61
+2025-03-28 22:28:52,499 - INFO - Processing article 62/150: https://cafef.vn/phien-26-3-khoi-ngoai-manh-tay-ban-rong-hon-500-ty-dong-co-phieu-nao-bi-xa-manh-nhat-188250326153211881.chn
+2025-03-28 22:28:52,660 - INFO - Successfully extracted article 62
+2025-03-28 22:28:53,756 - INFO - Processing article 63/150: https://cafef.vn/baf-viet-nam-se-chao-ban-115-trieu-co-phieu-e-cho-15-ca-nhan-18825032614043341.chn
+2025-03-28 22:28:53,909 - INFO - Successfully extracted article 63
+2025-03-28 22:28:56,292 - INFO - Processing article 64/150: https://cafef.vn/con-gai-chu-tich-trinh-van-tuan-ban-ra-45-trieu-co-phieu-ocb-188250326140544046.chn
+2025-03-28 22:28:56,465 - INFO - Successfully extracted article 64
+2025-03-28 22:28:58,370 - INFO - Processing article 65/150: https://cafef.vn/thong-tin-moi-nhat-ve-sieu-du-an-ma-tap-doan-cua-ty-phu-pham-nhat-vuong-vua-trinh-phuong-an-4-ty-usd-188250326130353107.chn
+2025-03-28 22:28:58,584 - INFO - Successfully extracted article 65
+2025-03-28 22:29:01,016 - INFO - Processing article 66/150: https://cafef.vn/chau-gai-ba-truong-my-lan-khai-khong-co-y-thuc-chiem-doat-tien-cua-cac-trai-chu-188250326124233832.chn
+2025-03-28 22:29:01,166 - INFO - Successfully extracted article 66
+2025-03-28 22:29:03,115 - INFO - Processing article 67/150: https://cafef.vn/quan-diem-cua-pyn-elite-fund-sau-khi-chot-loi-fpt-cmg-co-gay-tranh-cai-188250326094340926.chn
+2025-03-28 22:29:03,262 - INFO - Successfully extracted article 67
+2025-03-28 22:29:05,368 - INFO - Processing article 68/150: https://cafef.vn/lich-su-kien-va-tin-van-chung-khoan-ngay-26-3-2025-188250326004741724.chn
+2025-03-28 22:29:05,696 - INFO - Successfully extracted article 68
+2025-03-28 22:29:07,140 - INFO - Processing article 69/150: https://cafef.vn/he-lo-ke-hoach-kinh-doanh-nganh-chung-khoan-2025-loat-cong-ty-tham-vong-lai-nghin-ty-pha-ky-luc-van-co-ten-tuoi-chon-di-lui-188250326001428817.chn
+2025-03-28 22:29:07,288 - INFO - Successfully extracted article 69
+2025-03-28 22:29:09,773 - INFO - Processing article 70/150: https://cafef.vn/chuyen-gia-vpbanks-muc-chiet-khau-15-20-la-phu-hop-de-xem-xet-quyet-dinh-bat-day-co-phieu-bluechips-188250325230141818.chn
+2025-03-28 22:29:10,009 - INFO - Successfully extracted article 70
+2025-03-28 22:29:10,014 - INFO - Saved intermediate results (70 articles) to cafef_stock_articles.json
+2025-03-28 22:29:12,643 - INFO - Processing article 71/150: https://cafef.vn/them-ctck-len-ke-hoach-lai-tren-nghin-ty-nam-2025-muc-cao-ky-luc-tu-khi-hoat-dong-188250325230255416.chn
+2025-03-28 22:29:12,811 - INFO - Successfully extracted article 71
+2025-03-28 22:29:15,366 - INFO - Processing article 72/150: https://cafef.vn/chung-khoan-ngay-mai-26-3-co-nen-mua-trung-binh-gia-co-phieu-ho-vingroup-188250325223909755.chn
+2025-03-28 22:29:15,455 - INFO - Successfully extracted article 72
+2025-03-28 22:29:18,152 - INFO - Processing article 73/150: https://cafef.vn/trinh-thu-tuong-nhieu-du-an-vingroup-muon-chi-30-ty-usd-vao-mot-linh-vuc-trong-diem-cua-viet-nam-188250325181645021.chn
+2025-03-28 22:29:18,351 - INFO - Successfully extracted article 73
+2025-03-28 22:29:19,456 - INFO - Processing article 74/150: https://cafef.vn/vinfast-bat-tay-dai-gia-philippines-mo-100-xuong-dich-vu-188250325181846154.chn
+2025-03-28 22:29:19,611 - INFO - Successfully extracted article 74
+2025-03-28 22:29:22,559 - INFO - Processing article 75/150: https://cafef.vn/co-phieu-hoa-phat-cua-ty-phu-tran-dinh-long-duoc-tu-doanh-ctck-gom-manh-trong-phien-25-3-188250325173429515.chn
+2025-03-28 22:29:22,749 - INFO - Successfully extracted article 75
+2025-03-28 22:29:24,460 - INFO - Processing article 76/150: https://cafef.vn/24000-ty-dong-vua-do-vao-chung-khoan-188250325170328795.chn
+2025-03-28 22:29:45,653 - INFO - Successfully extracted article 76
+2025-03-28 22:29:47,047 - INFO - Processing article 77/150: https://cafef.vn/ceo-group-bien-dong-nhan-su-cap-cao-188250325154140899.chn
+2025-03-28 22:29:47,245 - INFO - Successfully extracted article 77
+2025-03-28 22:29:48,537 - INFO - Processing article 78/150: https://cafef.vn/tiep-tuc-tam-hoan-phien-xet-xu-phuc-tham-cuu-chu-tich-flc-trinh-van-quyet-va-dong-pham-188250325152656836.chn
+2025-03-28 22:29:48,700 - INFO - Successfully extracted article 78
+2025-03-28 22:29:50,079 - INFO - Processing article 79/150: https://cafef.vn/phien-25-3-khoi-ngoai-giam-ban-rong-nguoc-chieu-chi-gan-200-ty-dong-gom-mot-co-phieu-ho-vingroup-188250325152553002.chn
+2025-03-28 22:29:50,254 - INFO - Successfully extracted article 79
+2025-03-28 22:29:51,745 - INFO - Processing article 80/150: https://cafef.vn/petrolimex-evn-canh-bao-nguoi-dan-khong-an-vao-link-la-khong-chuyen-tien-cho-cac-trang-facebook-gia-mao-188250325150048163.chn
+2025-03-28 22:29:51,883 - INFO - Successfully extracted article 80
+2025-03-28 22:29:51,888 - INFO - Saved intermediate results (80 articles) to cafef_stock_articles.json
+2025-03-28 22:29:54,654 - INFO - Processing article 81/150: https://cafef.vn/loat-co-phieu-vao-dien-khong-duoc-cap-margin-188250325143417539.chn
+2025-03-28 22:29:54,817 - INFO - Successfully extracted article 81
+2025-03-28 22:29:57,415 - INFO - Processing article 82/150: https://cafef.vn/ty-phu-pham-nhat-vuong-vua-lap-ky-luc-chua-tung-co-o-viet-nam-188250325143259244.chn
+2025-03-28 22:29:57,573 - INFO - Successfully extracted article 82
+2025-03-28 22:29:58,744 - INFO - Processing article 83/150: https://cafef.vn/cuu-chu-tich-flc-trinh-van-quyet-mac-benh-nguy-kich-nguy-hiem-tinh-mang-188250325142928575.chn
+2025-03-28 22:29:58,918 - INFO - Successfully extracted article 83
+2025-03-28 22:30:00,061 - INFO - Processing article 84/150: https://cafef.vn/gia-dinh-ong-trinh-van-quyet-cam-ket-khac-phuc-triet-de-hau-qua-trong-thang-5-188250325135950716.chn
+2025-03-28 22:30:00,223 - INFO - Successfully extracted article 84
+2025-03-28 22:30:02,135 - INFO - Processing article 85/150: https://cafef.vn/nong-viec-xu-ly-tai-san-khac-phuc-hau-qua-cua-ba-truong-my-lan-188250325111302474.chn
+2025-03-28 22:30:09,973 - INFO - Successfully extracted article 85
+2025-03-28 22:30:11,301 - INFO - Processing article 86/150: https://cafef.vn/giam-doc-dau-tu-vcbf-khi-dat-nuoc-vuon-minh-chac-chan-thi-truong-chung-khoan-viet-nam-cung-se-vuon-minh-188250325110157023.chn
+2025-03-28 22:30:32,490 - INFO - Successfully extracted article 86
+2025-03-28 22:30:34,530 - INFO - Processing article 87/150: https://cafef.vn/ong-trinh-van-quyet-phai-tho-oxy-nguy-co-tu-vong-cao-188250325110013944.chn
+2025-03-28 22:30:34,851 - INFO - Successfully extracted article 87
+2025-03-28 22:30:36,166 - INFO - Processing article 88/150: https://cafef.vn/chuyen-gia-bsc-2025-se-la-mot-nam-kha-quan-cho-cac-nha-dau-tu-chung-khoan-vn-index-ky-vong-can-moc-1425-diem-188250325105429001.chn
+2025-03-28 22:30:36,335 - INFO - Successfully extracted article 88
+2025-03-28 22:30:38,095 - INFO - Processing article 89/150: https://cafef.vn/quy-1-2025-loi-nhuan-truoc-thue-gelex-electric-tang-215-so-voi-cung-ky-188250325094926721.chn
+2025-03-28 22:30:38,309 - INFO - Successfully extracted article 89
+2025-03-28 22:30:40,625 - INFO - Processing article 90/150: https://cafef.vn/chuyen-gi-dang-xay-ra-voi-co-phieu-vingroup-188250325104503465.chn
+2025-03-28 22:30:40,767 - INFO - Successfully extracted article 90
+2025-03-28 22:30:40,777 - INFO - Saved intermediate results (90 articles) to cafef_stock_articles.json
+2025-03-28 22:30:43,111 - INFO - Processing article 91/150: https://cafef.vn/ty-phu-pham-nhat-vuong-co-vi-tri-moi-188250325103405525.chn
+2025-03-28 22:31:05,384 - INFO - Successfully extracted article 91
+2025-03-28 22:31:07,701 - INFO - Processing article 92/150: https://cafef.vn/hau-ma-cac-doanh-nghiep-ho-gex-lam-an-ra-sao-188250325085651911.chn
+2025-03-28 22:31:07,879 - INFO - Successfully extracted article 92
+2025-03-28 22:31:09,311 - INFO - Processing article 93/150: https://cafef.vn/giam-doc-vpbanks-tiet-lo-bi-quyet-dau-tu-vao-con-ngua-tot-tren-thi-truong-chung-khoan-188250325092758505.chn
+2025-03-28 22:31:09,522 - INFO - Successfully extracted article 93
+2025-03-28 22:31:11,885 - INFO - Processing article 94/150: https://cafef.vn/hsbc-thu-xep-khoan-vay-khong-rang-buoc-khoang-40-trieu-usd-cho-gelex-ha-tang-188250325081356088.chn
+2025-03-28 22:31:12,048 - INFO - Successfully extracted article 94
+2025-03-28 22:31:13,940 - INFO - Processing article 95/150: https://cafef.vn/kim-viet-nam-2025-thoi-diem-vang-de-don-song-nang-hang-188250324211234027.chn
+2025-03-28 22:31:14,082 - INFO - Successfully extracted article 95
+2025-03-28 22:31:15,606 - INFO - Processing article 96/150: https://cafef.vn/lich-su-kien-va-tin-van-chung-khoan-ngay-25-3-2025-188250324234731188.chn
+2025-03-28 22:31:16,759 - INFO - Successfully extracted article 96
+2025-03-28 22:31:18,782 - INFO - Processing article 97/150: https://cafef.vn/pyn-elite-fund-canh-bao-ve-bong-bong-dot-com-sau-khi-chot-loi-fpt-cmg-188250324233936829.chn
+2025-03-28 22:31:18,951 - INFO - Successfully extracted article 97
+2025-03-28 22:31:20,119 - INFO - Processing article 98/150: https://cafef.vn/pyn-elite-fund-cong-ty-niem-yet-co-ty-le-no-thap-dinh-gia-co-phieu-viet-nam-rat-hap-dan-188250324232056253.chn
+2025-03-28 22:31:20,277 - INFO - Successfully extracted article 98
+2025-03-28 22:31:22,078 - INFO - Processing article 99/150: https://cafef.vn/cac-quy-etf-tong-quy-mo-gan-13000-ty-se-san-lung-nhung-co-phieu-nao-trong-ky-review-thang-4-188250324233644269.chn
+2025-03-28 22:31:22,207 - INFO - Successfully extracted article 99
+2025-03-28 22:31:23,300 - INFO - Processing article 100/150: https://cafef.vn/chuyen-gia-pinetree-chung-khoan-dang-xay-nen-moi-sau-nhip-dieu-chinh-chu-y-nhung-dong-co-phieu-khoe-hon-thi-truong-188250324225703797.chn
+2025-03-28 22:31:24,465 - INFO - Successfully extracted article 100
+2025-03-28 22:31:24,475 - INFO - Saved intermediate results (100 articles) to cafef_stock_articles.json
+2025-03-28 22:31:27,295 - INFO - Processing article 101/150: https://cafef.vn/mot-doanh-nghiep-du-trinh-dai-hoi-phuong-an-chia-co-tuc-150-bang-tien-mat-188250324225540517.chn
+2025-03-28 22:31:28,443 - INFO - Successfully extracted article 101
+2025-03-28 22:31:29,802 - INFO - Processing article 102/150: https://cafef.vn/de-xuat-tang-muc-phat-tien-voi-cac-vi-pham-chung-khoan-18825032422494088.chn
+2025-03-28 22:31:29,954 - INFO - Successfully extracted article 102
+2025-03-28 22:31:31,641 - INFO - Processing article 103/150: https://cafef.vn/chung-khoan-ngay-mai-25-3-co-the-mua-co-phieu-nganh-ban-le-bat-dong-san-188250324223546865.chn
+2025-03-28 22:31:32,771 - INFO - Successfully extracted article 103
+2025-03-28 22:31:34,593 - INFO - Processing article 104/150: https://cafef.vn/goc-nhin-ctck-rung-lac-cho-xac-nhan-xu-huong-188250324190048157.chn
+2025-03-28 22:32:45,666 - ERROR - Error fetching article URL https://cafef.vn/goc-nhin-ctck-rung-lac-cho-xac-nhan-xu-huong-188250324190048157.chn: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-28 22:32:45,667 - WARNING - Failed to extract article from: https://cafef.vn/goc-nhin-ctck-rung-lac-cho-xac-nhan-xu-huong-188250324190048157.chn
+2025-03-28 22:32:48,016 - INFO - Processing article 105/150: https://cafef.vn/cuu-chu-tich-flc-trinh-van-quyet-cung-em-gai-khac-phuc-800-ty-dong-188250324180725612.chn
+2025-03-28 22:32:48,423 - INFO - Successfully extracted article 105
+2025-03-28 22:32:50,299 - INFO - Processing article 106/150: https://cafef.vn/mot-ma-chung-khoan-bat-ngo-duoc-tu-doanh-ctck-gom-manh-trong-phien-dau-tuan-188250324174420662.chn
+2025-03-28 22:32:50,484 - INFO - Successfully extracted article 106
+2025-03-28 22:32:51,603 - INFO - Processing article 107/150: https://cafef.vn/quy-fubon-etf-quy-mo-hon-14000-ty-hoan-tat-co-cau-dig-chinh-thuc-roi-ro-nhuong-cho-cho-mot-dai-gia-bat-dong-san-18825032416484792.chn
+2025-03-28 22:32:51,749 - INFO - Successfully extracted article 107
+2025-03-28 22:32:53,547 - INFO - Processing article 108/150: https://cafef.vn/chung-khoan-everest-bi-phat-188250324155740033.chn
+2025-03-28 22:32:53,756 - INFO - Successfully extracted article 108
+2025-03-28 22:32:56,046 - INFO - Processing article 109/150: https://cafef.vn/phien-24-3-khoi-ngoai-manh-tay-xa-hon-750-ty-dong-co-phieu-viet-nam-tam-diem-hai-ma-ngan-hang-188250324154719379.chn
+2025-03-28 22:32:56,204 - INFO - Successfully extracted article 109
+2025-03-28 22:32:57,735 - INFO - Processing article 110/150: https://cafef.vn/ree-de-cu-doanh-nhan-quoc-tich-uc-vao-hdqt-188250324143759427.chn
+2025-03-28 22:33:18,976 - INFO - Successfully extracted article 110
+2025-03-28 22:33:18,986 - INFO - Saved intermediate results (109 articles) to cafef_stock_articles.json
+2025-03-28 22:33:21,978 - INFO - Processing article 111/150: https://cafef.vn/5-luat-su-bao-chua-cho-cuu-chu-tich-tap-doan-flc-trinh-van-quyet-tai-phien-toa-ngay-mai-188250324133505383.chn
+2025-03-28 22:33:43,170 - INFO - Successfully extracted article 111
+2025-03-28 22:33:45,470 - INFO - Processing article 112/150: https://cafef.vn/nguoi-tung-la-tay-hom-chia-khoa-cua-phat-dat-thao-tung-co-phieu-pdr-188250324122629106.chn
+2025-03-28 22:33:45,659 - INFO - Successfully extracted article 112
+2025-03-28 22:33:47,616 - INFO - Processing article 113/150: https://cafef.vn/thi-cong-than-toc-cu-diem-500-trieu-usd-cua-ong-pham-nhat-vuong-tai-thi-truong-14-ty-dan-da-den-sat-vach-dich-188250324122532073.chn
+2025-03-28 22:33:47,801 - INFO - Successfully extracted article 113
+2025-03-28 22:33:50,499 - INFO - Processing article 114/150: https://cafef.vn/cong-ty-von-hoa-700-ty-usd-nhung-khong-co-chu-tich-coo-va-ca-pho-chu-tich-dieu-hanh-ke-ho-khong-lo-khien-elon-musk-co-quyen-luc-toi-cao-tai-tesla-188250324104147427.chn
+2025-03-28 22:33:50,658 - INFO - Successfully extracted article 114
+2025-03-28 22:33:53,070 - INFO - Processing article 115/150: https://cafef.vn/co-phieu-vic-cham-tran-nguoi-giau-nhat-viet-nam-vua-co-them-hon-2000-ty-dong-trong-1-buoi-sang-188250324105438971.chn
+2025-03-28 22:33:53,209 - INFO - Successfully extracted article 115
+2025-03-28 22:33:54,382 - INFO - Processing article 116/150: https://cafef.vn/the-gioi-di-dong-gay-bat-ngo-188250324103320744.chn
+2025-03-28 22:33:54,556 - INFO - Successfully extracted article 116
+2025-03-28 22:33:56,084 - INFO - Processing article 117/150: https://cafef.vn/co-phieu-fpt-vua-tai-sinh-cong-ty-chung-khoan-bat-ngo-chi-ra-lo-ngai-18825032410192885.chn
+2025-03-28 22:33:56,139 - INFO - Successfully extracted article 117
+2025-03-28 22:33:58,460 - INFO - Processing article 118/150: https://cafef.vn/gelex-danh-2-doanh-thu-cho-rd-trong-linh-vuc-thiet-bi-dien-188250324082814734.chn
+2025-03-28 22:33:58,600 - INFO - Successfully extracted article 118
+2025-03-28 22:34:01,144 - INFO - Processing article 119/150: https://cafef.vn/tcbs-nhieu-nam-lien-tiep-pha-ky-luc-huy-dong-von-quoc-te-188250323214323004.chn
+2025-03-28 22:34:01,318 - INFO - Successfully extracted article 119
+2025-03-28 22:34:03,648 - INFO - Processing article 120/150: https://cafef.vn/kis-research-nganh-ngan-hang-tang-truong-trong-ap-luc-188250322100614608.chn
+2025-03-28 22:34:03,791 - INFO - Successfully extracted article 120
+2025-03-28 22:34:03,800 - INFO - Saved intermediate results (119 articles) to cafef_stock_articles.json
+2025-03-28 22:34:06,393 - INFO - Processing article 121/150: https://cafef.vn/lich-su-kien-va-tin-van-chung-khoan-ngay-24-3-2025-188250323204549613.chn
+2025-03-28 22:34:06,570 - INFO - Successfully extracted article 121
+2025-03-28 22:34:09,198 - INFO - Processing article 122/150: https://cafef.vn/gia-lon-neo-cao-dai-gia-chan-nuoi-uoc-lai-tang-truong-450-trong-quy-dau-nam-188250323222259028.chn
+2025-03-28 22:34:09,332 - INFO - Successfully extracted article 122
+2025-03-28 22:34:11,888 - INFO - Processing article 123/150: https://cafef.vn/vn-index-dieu-chinh-sau-8-tuan-tang-lien-tiep-chuyen-gia-goi-y-mot-so-nhom-co-phieu-co-co-hoi-bat-tang-manh-tro-lai-188250323221037933.chn
+2025-03-28 22:34:12,048 - INFO - Successfully extracted article 123
+2025-03-28 22:34:14,589 - INFO - Processing article 124/150: https://cafef.vn/giai-doan-nuoc-rut-nang-hang-chung-khoan-viet-nam-masvn-chi-ra-mot-so-co-phieu-don-dau-dong-von-16000-ty-188250323220846092.chn
+2025-03-28 22:34:15,135 - INFO - Successfully extracted article 124
+2025-03-28 22:34:16,523 - INFO - Processing article 125/150: https://cafef.vn/chung-khoan-tuan-toi-tu-24-den-28-3-co-hoi-mua-hap-dan-khi-vn-index-xuong-1300-diem-188250323204642138.chn
+2025-03-28 22:34:16,667 - INFO - Successfully extracted article 125
+2025-03-28 22:34:18,540 - INFO - Processing article 126/150: https://cafef.vn/chung-khoan-xuat-hien-dau-hieu-moi-188250323180440545.chn
+2025-03-28 22:34:18,668 - INFO - Successfully extracted article 126
+2025-03-28 22:34:21,343 - INFO - Processing article 127/150: https://cafef.vn/lanh-dao-ky-cuu-xin-tu-chuc-vi-nhan-thay-cong-ty-can-nguoi-tre-nang-dong-hon-18825032322181194.chn
+2025-03-28 22:34:21,495 - INFO - Successfully extracted article 127
+2025-03-28 22:34:22,823 - INFO - Processing article 128/150: https://cafef.vn/khoi-ngoai-ban-rong-co-phieu-fpt-hon-6000-ty-dong-dau-ai-chung-tinh-duoc-mai-188250323231602919.chn
+2025-03-28 22:34:22,888 - INFO - Successfully extracted article 128
+2025-03-28 22:34:24,770 - INFO - Processing article 129/150: https://cafef.vn/dong-thai-cua-bo-truong-xay-dung-ve-viec-vicem-thua-lo-trien-mien-188250323175356742.chn
+2025-03-28 22:34:24,945 - INFO - Successfully extracted article 129
+2025-03-28 22:34:26,756 - INFO - Processing article 130/150: https://cafef.vn/lo-dien-doanh-nghiep-dich-vu-mat-dat-o-san-bay-long-thanh-18825032316055114.chn
+2025-03-28 22:34:26,903 - INFO - Successfully extracted article 130
+2025-03-28 22:34:26,916 - INFO - Saved intermediate results (129 articles) to cafef_stock_articles.json
+2025-03-28 22:34:28,489 - INFO - Processing article 131/150: https://cafef.vn/chung-khoan-smartinvest-mua-lai-trai-phieu-truoc-han-188250323154855687.chn
+2025-03-28 22:34:28,646 - INFO - Successfully extracted article 131
+2025-03-28 22:34:30,421 - INFO - Processing article 132/150: https://cafef.vn/chung-khoan-rong-viet-huy-dong-500-ty-dong-trai-phieu-18825032315465847.chn
+2025-03-28 22:34:30,552 - INFO - Successfully extracted article 132
+2025-03-28 22:34:33,093 - INFO - Processing article 133/150: https://cafef.vn/goc-nhin-chuyen-gia-nhip-ru-manh-ve-vung-1305-1315la-can-thiet-chung-khoan-van-co-nhieu-yeu-to-ho-tro-tich-cuc-188250323142757847.chn
+2025-03-28 22:34:33,249 - INFO - Successfully extracted article 133
+2025-03-28 22:34:36,116 - INFO - Processing article 134/150: https://cafef.vn/sau-chua-day-1-nam-vndirect-muon-chia-tay-chu-chuoi-wulao-king-bbq-thaiexpress-hotpot-story-188250323115114468.chn
+2025-03-28 22:34:36,311 - INFO - Successfully extracted article 134
+2025-03-28 22:34:37,725 - INFO - Processing article 135/150: https://cafef.vn/lam-gia-so-do-qua-mat-nhan-vien-ngan-hang-le-thi-hoan-linh-an-17-nam-tu-188250323154424157.chn
+2025-03-28 22:34:45,131 - INFO - Successfully extracted article 135
+2025-03-28 22:34:46,969 - INFO - Processing article 136/150: https://cafef.vn/co-phieu-mot-doanh-nghiep-do-day-lich-su-chu-tich-lien-tuc-bi-giai-chap-ganh-lo-luy-ke-hon-500-ty-dong-188250322231943355.chn
+2025-03-28 22:34:47,119 - INFO - Successfully extracted article 136
+2025-03-28 22:34:48,566 - INFO - Processing article 137/150: https://cafef.vn/lich-chot-quyen-co-tuc-tuan-24-3-28-3-co-tuc-tien-mat-cao-nhat-20-mot-doanh-nghiep-sap-chi-hon-tram-ty-tra-co-tuc-18825032223215506.chn
+2025-03-28 22:34:48,705 - INFO - Successfully extracted article 137
+2025-03-28 22:34:50,100 - INFO - Processing article 138/150: https://cafef.vn/sau-bui-cao-nhat-quan-den-luot-novagroup-dang-ky-ban-co-phieu-nhom-ong-bui-thanh-nhon-den-gan-nguong-phu-quyet-tai-novaland-188250322230138174.chn
+2025-03-28 22:34:50,273 - INFO - Successfully extracted article 138
+2025-03-28 22:34:51,882 - INFO - Processing article 139/150: https://cafef.vn/10-nam-danh-chung-gong-lo-tra-gia-vi-sai-lam-ai-cung-mac-188250322225943381.chn
+2025-03-28 22:34:53,828 - INFO - Successfully extracted article 139
+2025-03-28 22:34:56,526 - INFO - Processing article 140/150: https://cafef.vn/don-song-nang-hang-thi-truong-cong-ty-chung-khoan-dong-loat-tang-von-188250322202118711.chn
+2025-03-28 22:34:56,748 - INFO - Successfully extracted article 140
+2025-03-28 22:34:56,757 - INFO - Saved intermediate results (139 articles) to cafef_stock_articles.json
+2025-03-28 22:34:59,530 - INFO - Processing article 141/150: https://cafef.vn/thi-truong-bien-dong-du-doi-nen-dau-tu-vang-hay-chung-khoan-188250322165450613.chn
+2025-03-28 22:34:59,752 - INFO - Successfully extracted article 141
+2025-03-28 22:35:01,003 - INFO - Processing article 142/150: https://cafef.vn/ly-do-2-ca-nhan-vua-bi-phat-3-ty-dong-cam-giao-dich-chung-khoan-188250322154805255.chn
+2025-03-28 22:35:01,170 - INFO - Successfully extracted article 142
+2025-03-28 22:35:03,415 - INFO - Processing article 143/150: https://cafef.vn/dragon-capital-vua-ban-ra-741000-co-phieu-pnj-188250322105051933.chn
+2025-03-28 22:35:03,640 - INFO - Successfully extracted article 143
+2025-03-28 22:35:05,070 - INFO - Processing article 144/150: https://cafef.vn/sep-mot-cong-ty-phan-bon-bo-tui-22-ty--nam-cong-nhan-cung-am-42-trieu-dong-thang-18825032210475497.chn
+2025-03-28 22:35:05,235 - INFO - Successfully extracted article 144
+2025-03-28 22:35:07,163 - INFO - Processing article 145/150: https://cafef.vn/dai-hoi-dong-co-dong-thuong-nien-cua-gelex-nam-nay-co-gi-1882503220923071.chn
+2025-03-28 22:35:07,381 - INFO - Successfully extracted article 145
+2025-03-28 22:35:09,818 - INFO - Processing article 146/150: https://cafef.vn/cong-ty-chung-khoan-lon-nhat-viet-nam-dat-muc-tieu-loi-nhuan-cao-ky-luc-188250322092407909.chn
+2025-03-28 22:35:10,052 - INFO - Successfully extracted article 146
+2025-03-28 22:35:12,547 - INFO - Processing article 147/150: https://cafef.vn/hinh-anh-trong-mo-khi-tap-doan-cua-ty-phu-pham-nhat-vuong-lam-metro-4-ty-usd-ket-noi-sieu-do-thi-lan-bien-188250321174911847.chn
+2025-03-28 22:35:12,737 - INFO - Successfully extracted article 147
+2025-03-28 22:35:14,620 - INFO - Processing article 148/150: https://cafef.vn/fpt-cam-ket-dao-tao-50000-ky-su-ai-dau-tu-them-trung-tam-du-lieu-nha-may-ai-tai-viet-nam-188250322011229766.chn
+2025-03-28 22:35:14,770 - INFO - Successfully extracted article 148
+2025-03-28 22:35:15,775 - INFO - Processing article 149/150: https://cafef.vn/ty-phu-pham-nhat-vuong-tung-kien-nghi-voi-thu-tuong-1-viec-giup-dn-go-kho-bo-xay-dung-vua-de-xuat-gi-188250321175607364.chn
+2025-03-28 22:35:15,927 - INFO - Successfully extracted article 149
+2025-03-28 22:35:18,257 - INFO - Processing article 150/150: https://cafef.vn/them-cong-ty-chung-khoan-len-muc-tieu-lai-nghin-ty-co-dong-nhan-tin-co-tuc-tien-tuoi-sau-4-nam-ngong-cho-188250322010728707.chn
+2025-03-28 22:35:39,452 - INFO - Successfully extracted article 150
+2025-03-28 22:35:39,476 - INFO - Saved intermediate results (149 articles) to cafef_stock_articles.json
+2025-03-28 22:35:41,705 - INFO - Saved 149 articles to cafef_stock_articles.json

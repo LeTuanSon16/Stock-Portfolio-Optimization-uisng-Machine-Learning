@@ -1,2 +1,5 @@
 torch
 pandas
+requests
+bs4
+regex
