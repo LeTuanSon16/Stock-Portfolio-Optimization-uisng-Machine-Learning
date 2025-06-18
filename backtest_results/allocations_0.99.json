@@ -1,0 +1,1712 @@
+[
+  {
+    "date": "2023-01-01",
+    "stocks": [
+      {
+        "ticker": "VIC",
+        "weight": 0.2229148705582341,
+        "expected_return": 0.051012188971707687,
+        "price": 53800.0,
+        "shares": 413.0968883765045
+      },
+      {
+        "ticker": "VPI",
+        "weight": 0.215353727901821,
+        "expected_return": 0.02277395735732192,
+        "price": 43975.0,
+        "shares": 488.24938423676076
+      },
+      {
+        "ticker": "VCB",
+        "weight": 0.19115254059187436,
+        "expected_return": 0.036511610103377994,
+        "price": 45309.0,
+        "shares": 420.62081036901884
+      },
+      {
+        "ticker": "VIB",
+        "weight": 2.9946045643214344e-17,
+        "expected_return": 0.08241664510207423,
+        "price": 11463.0,
+        "shares": 2.6045718839993633e-13
+      },
+      {
+        "ticker": "TPB",
+        "weight": 0.14513258734956402,
+        "expected_return": 0.04815017889212439,
+        "price": 10301.0,
+        "shares": 1404.690705635524
+      },
+      {
+        "ticker": "HPG",
+        "weight": 3.250220405315308e-17,
+        "expected_return": 0.061241454829784756,
+        "price": 16364.0,
+        "shares": 1.980243060437156e-13
+      },
+      {
+        "ticker": "SAB",
+        "weight": 0.22544627359850644,
+        "expected_return": 0.021940535231734764,
+        "price": 74959.0,
+        "shares": 299.85716828894584
+      }
+    ],
+    "transaction_cost": 300000.0,
+    "portfolio_value_before_costs": 100000000.0,
+    "portfolio_value_after_costs": 99700000.0
+  },
+  {
+    "date": "2023-02-01",
+    "stocks": [
+      {
+        "ticker": "KOS",
+        "weight": 0.3177084754036802,
+        "expected_return": 0.029548548312916346,
+        "price": 36150.0,
+        "shares": 931.8086705718621
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.1403781339224578,
+        "expected_return": 0.054393224874854124,
+        "price": 55200.0,
+        "shares": 269.62902148882154
+      },
+      {
+        "ticker": "VNM",
+        "weight": 0.3373982574248413,
+        "expected_return": 0.02130680009347063,
+        "price": 67715.0,
+        "shares": 528.2800385272168
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.08208780919596204,
+        "expected_return": 0.05583709724291397,
+        "price": 48000.0,
+        "shares": 181.31915070318905
+      },
+      {
+        "ticker": "PNJ",
+        "weight": 1.4930731126710976e-17,
+        "expected_return": 0.02497756473865101,
+        "price": 82866.0,
+        "shares": 1.910341223544825e-14
+      },
+      {
+        "ticker": "KDC",
+        "weight": 0.12242732405305871,
+        "expected_return": -0.004964591614661146,
+        "price": 59620.0,
+        "shares": 217.71714656000077
+      },
+      {
+        "ticker": "FPT",
+        "weight": 3.279714780659173e-19,
+        "expected_return": -0.004214323389973562,
+        "price": 59751.0,
+        "shares": 5.819653764020643e-16
+      }
+    ],
+    "transaction_cost": 549680.9973986087,
+    "portfolio_value_before_costs": 106574184.74528518,
+    "portfolio_value_after_costs": 106024503.74788657
+  },
+  {
+    "date": "2023-03-01",
+    "stocks": [
+      {
+        "ticker": "VIC",
+        "weight": 0.35791563249586467,
+        "expected_return": 0.053740414886420354,
+        "price": 52700.0,
+        "shares": 705.3399307065943
+      },
+      {
+        "ticker": "EIB",
+        "weight": 0.14913856724672558,
+        "expected_return": 0.07008620900790079,
+        "price": 14027.0,
+        "shares": 1104.214862492689
+      },
+      {
+        "ticker": "HPG",
+        "weight": 7.497165581229683e-17,
+        "expected_return": 0.06145539702119256,
+        "price": 19000.0,
+        "shares": 4.097999683596463e-13
+      },
+      {
+        "ticker": "HDB",
+        "weight": 0.07760868579079994,
+        "expected_return": 0.05161363762568082,
+        "price": 11687.0,
+        "shares": 689.6610578717813
+      },
+      {
+        "ticker": "PDR",
+        "weight": 0.15780050402456117,
+        "expected_return": 0.04509093457052162,
+        "price": 9396.0,
+        "shares": 1744.1900180560388
+      },
+      {
+        "ticker": "MBB",
+        "weight": 0.10811737758343926,
+        "expected_return": 0.04452557064099903,
+        "price": 12737.0,
+        "shares": 881.5699402285431
+      },
+      {
+        "ticker": "GMD",
+        "weight": 0.1494192328586094,
+        "expected_return": 0.049006686373259126,
+        "price": 40615.0,
+        "shares": 382.0748607905575
+      }
+    ],
+    "transaction_cost": 538434.5180529999,
+    "portfolio_value_before_costs": 104393675.73517695,
+    "portfolio_value_after_costs": 103855241.21712396
+  },
+  {
+    "date": "2023-04-01",
+    "stocks": [
+      {
+        "ticker": "IMP",
+        "weight": 0.16678561375339518,
+        "expected_return": 0.03845856342735002,
+        "price": 19828.0,
+        "shares": 929.778390914076
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.24332213758636778,
+        "expected_return": 0.02383766247467582,
+        "price": 55000.0,
+        "shares": 489.0110860665606
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.2617838417867523,
+        "expected_return": 0.013779186275444121,
+        "price": 38150.0,
+        "shares": 758.486867607324
+      },
+      {
+        "ticker": "BWE",
+        "weight": 0.031073382146196774,
+        "expected_return": 0.012723404035370006,
+        "price": 36419.0,
+        "shares": 94.31055067549609
+      },
+      {
+        "ticker": "EIB",
+        "weight": 0.1225255126214494,
+        "expected_return": 0.024531873390577896,
+        "price": 14728.0,
+        "shares": 919.5651925337872
+      },
+      {
+        "ticker": "TPB",
+        "weight": 0.04167138395530921,
+        "expected_return": 0.01543105477998257,
+        "price": 12054.0,
+        "shares": 382.12592960722515
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.13283812815052937,
+        "expected_return": 0.009716526281486686,
+        "price": 51500.0,
+        "shares": 285.1118640160723
+      }
+    ],
+    "transaction_cost": 422182.50515588146,
+    "portfolio_value_before_costs": 110957171.22608215,
+    "portfolio_value_after_costs": 110534988.72092627
+  },
+  {
+    "date": "2023-05-01",
+    "stocks": [
+      {
+        "ticker": "VIC",
+        "weight": 0.08094492822890881,
+        "expected_return": 0.04298428055649769,
+        "price": 52100.0,
+        "shares": 171.15545851374577
+      },
+      {
+        "ticker": "BWE",
+        "weight": 0.15163751486567453,
+        "expected_return": 0.029486774974074547,
+        "price": 36675.0,
+        "shares": 455.48635468047644
+      },
+      {
+        "ticker": "FPT",
+        "weight": 0.005843649793098808,
+        "expected_return": 0.017536782357373493,
+        "price": 56472.0,
+        "shares": 11.399606160338928
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.3120100511941477,
+        "expected_return": 0.012957860593069487,
+        "price": 37850.0,
+        "shares": 908.1164362434267
+      },
+      {
+        "ticker": "IMP",
+        "weight": 7.225860534920692e-18,
+        "expected_return": 0.013297648160470776,
+        "price": 21872.0,
+        "shares": 3.63948482655176e-14
+      },
+      {
+        "ticker": "VPI",
+        "weight": 0.44433274030499303,
+        "expected_return": 0.006585145682254731,
+        "price": 43248.0,
+        "shares": 1131.8297938671662
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.005231115613177081,
+        "expected_return": 0.009930456045902309,
+        "price": 49500.0,
+        "shares": 11.642009646791832
+      }
+    ],
+    "transaction_cost": 411983.2277924893,
+    "portfolio_value_before_costs": 110575764.74784888,
+    "portfolio_value_after_costs": 110163781.5200564
+  },
+  {
+    "date": "2023-06-01",
+    "stocks": [
+      {
+        "ticker": "VIC",
+        "weight": 0.11494029140373296,
+        "expected_return": 0.05286217148487401,
+        "price": 52000.0,
+        "shares": 248.73065642761915
+      },
+      {
+        "ticker": "VHM",
+        "weight": 5.021810360085207e-18,
+        "expected_return": 0.05970788002014173,
+        "price": 53000.0,
+        "shares": 1.0662150403343481e-14
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.24562079994164326,
+        "expected_return": 0.013881383487215977,
+        "price": 38400.0,
+        "shares": 719.7708975708433
+      },
+      {
+        "ticker": "VJC",
+        "weight": 0.3321538147152089,
+        "expected_return": 0.010661374738074067,
+        "price": 97500.0,
+        "shares": 383.3495825705717
+      },
+      {
+        "ticker": "BMP",
+        "weight": 1.280562099507107e-18,
+        "expected_return": 0.011393946837749816,
+        "price": 63602.0,
+        "shares": 2.2656365240649625e-15
+      },
+      {
+        "ticker": "VNM",
+        "weight": 0.005000759039090018,
+        "expected_return": 0.002785205531711029,
+        "price": 57979.0,
+        "shares": 9.705671184498993
+      },
+      {
+        "ticker": "SCS",
+        "weight": 0.3022843349003249,
+        "expected_return": -0.0014038056904744091,
+        "price": 56861.0,
+        "shares": 598.2208066880713
+      }
+    ],
+    "transaction_cost": 456525.66535304056,
+    "portfolio_value_before_costs": 112984464.96563685,
+    "portfolio_value_after_costs": 112527939.3002838
+  },
+  {
+    "date": "2023-07-01",
+    "stocks": [
+      {
+        "ticker": "VIC",
+        "weight": 0.17878714656366654,
+        "expected_return": 0.06366822482908492,
+        "price": 51000.0,
+        "shares": 391.8164585281398
+      },
+      {
+        "ticker": "VHM",
+        "weight": 1.990240490795628e-18,
+        "expected_return": 0.04659229863773698,
+        "price": 55000.0,
+        "shares": 4.044449582672579e-15
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.03402623054592111,
+        "expected_return": 0.035134636957506196,
+        "price": 74864.0,
+        "shares": 50.79925817343307
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.3305987027838949,
+        "expected_return": 0.012865289094045673,
+        "price": 38100.0,
+        "shares": 969.8235534792794
+      },
+      {
+        "ticker": "PTB",
+        "weight": 1.6857770814787003e-17,
+        "expected_return": 0.023497265165985076,
+        "price": 45008.0,
+        "shares": 4.18626761775214e-14
+      },
+      {
+        "ticker": "VJC",
+        "weight": 0.19482619912002308,
+        "expected_return": 0.008525854921427708,
+        "price": 94300.0,
+        "shares": 230.9150414235684
+      },
+      {
+        "ticker": "VNM",
+        "weight": 0.2617617209864945,
+        "expected_return": 0.0038879656334074573,
+        "price": 62277.0,
+        "shares": 469.7805278940102
+      }
+    ],
+    "transaction_cost": 295586.32486979483,
+    "portfolio_value_before_costs": 112063349.10315913,
+    "portfolio_value_after_costs": 111767762.77828933
+  },
+  {
+    "date": "2023-08-01",
+    "stocks": [
+      {
+        "ticker": "PPC",
+        "weight": 0.014366796833759734,
+        "expected_return": 0.04265396456712993,
+        "price": 11619.0,
+        "shares": 147.18003414378958
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.10878896009091679,
+        "expected_return": 0.06923325579476218,
+        "price": 78429.0,
+        "shares": 165.1071376923211
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.2799289616858012,
+        "expected_return": 0.00984929140828213,
+        "price": 38950.0,
+        "shares": 855.456778662412
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.07325186742090245,
+        "expected_return": 0.024675398781186103,
+        "price": 62800.0,
+        "shares": 138.84068820880233
+      },
+      {
+        "ticker": "SAB",
+        "weight": 0.18240160713093861,
+        "expected_return": 0.004484523138166775,
+        "price": 72192.0,
+        "shares": 300.74421881851896
+      },
+      {
+        "ticker": "VPI",
+        "weight": 0.31162018315776463,
+        "expected_return": -0.008242377284962013,
+        "price": 45665.0,
+        "shares": 812.2688848589206
+      },
+      {
+        "ticker": "BWE",
+        "weight": 0.02964162367991665,
+        "expected_return": 0.0026542294032442684,
+        "price": 39233.0,
+        "shares": 89.93074098764315
+      }
+    ],
+    "transaction_cost": 491986.05727428506,
+    "portfolio_value_before_costs": 119522333.35767308,
+    "portfolio_value_after_costs": 119030347.3003988
+  },
+  {
+    "date": "2023-09-01",
+    "stocks": [
+      {
+        "ticker": "VPI",
+        "weight": 0.23411498934398683,
+        "expected_return": 0.020838800666508655,
+        "price": 42832.0,
+        "shares": 627.3495021764733
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.12556128370488723,
+        "expected_return": 0.07585768365629646,
+        "price": 62100.0,
+        "shares": 232.06670608297046
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.2928070092828664,
+        "expected_return": 0.004846934371993661,
+        "price": 39550.0,
+        "shares": 849.7353228693731
+      },
+      {
+        "ticker": "VHM",
+        "weight": 9.736808978989404e-18,
+        "expected_return": 0.03576447366578487,
+        "price": 54700.0,
+        "shares": 2.043045386220423e-14
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.0014972603083691222,
+        "expected_return": 0.045746078536414374,
+        "price": 71380.0,
+        "shares": 2.4075175362813885
+      },
+      {
+        "ticker": "VJC",
+        "weight": 0.09916184826481186,
+        "expected_return": -0.0008405924958433285,
+        "price": 98000.0,
+        "shares": 116.13609745220074
+      },
+      {
+        "ticker": "VNM",
+        "weight": 0.24685760909507848,
+        "expected_return": -0.007245073573269567,
+        "price": 70512.0,
+        "shares": 401.82058002457524
+      }
+    ],
+    "transaction_cost": 334596.20069439535,
+    "portfolio_value_before_costs": 115109963.43590157,
+    "portfolio_value_after_costs": 114775367.23520717
+  },
+  {
+    "date": "2023-10-01",
+    "stocks": [
+      {
+        "ticker": "FPT",
+        "weight": 0.17298911629815533,
+        "expected_return": 0.021293851547267137,
+        "price": 79589.0,
+        "shares": 239.65858952812056
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.15055433760449732,
+        "expected_return": 0.03942266443750277,
+        "price": 46850.0,
+        "shares": 354.33246387376334
+      },
+      {
+        "ticker": "SSB",
+        "weight": 0.13853178278172154,
+        "expected_return": 0.0203766922562228,
+        "price": 22010.0,
+        "shares": 693.9954891234147
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.1513827420426777,
+        "expected_return": 0.04116364426306618,
+        "price": 69678.0,
+        "shares": 239.5564992874712
+      },
+      {
+        "ticker": "SAB",
+        "weight": 0.16637392489799646,
+        "expected_return": 0.010366672888734139,
+        "price": 66084.0,
+        "shares": 277.5979192307103
+      },
+      {
+        "ticker": "VNM",
+        "weight": 0.2201680963749516,
+        "expected_return": 0.008754494974947184,
+        "price": 67249.0,
+        "shares": 360.9905421203463
+      },
+      {
+        "ticker": "NT2",
+        "weight": 3.621813766670117e-19,
+        "expected_return": 0.01100892847088616,
+        "price": 22918.0,
+        "shares": 1.7425155685348352e-15
+      }
+    ],
+    "transaction_cost": 433556.0534550506,
+    "portfolio_value_before_costs": 110695911.80234666,
+    "portfolio_value_after_costs": 110262355.7488916
+  },
+  {
+    "date": "2023-11-01",
+    "stocks": [
+      {
+        "ticker": "SAB",
+        "weight": 0.14370076035684035,
+        "expected_return": 0.08103691246761917,
+        "price": 52321.0,
+        "shares": 276.2736423802932
+      },
+      {
+        "ticker": "REE",
+        "weight": 1.458454202049361e-17,
+        "expected_return": 0.07309891210898573,
+        "price": 43979.0,
+        "shares": 3.335829686764128e-14
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.06267558597508491,
+        "expected_return": 0.06826547809221144,
+        "price": 40400.0,
+        "shares": 156.05348119482554
+      },
+      {
+        "ticker": "VTP",
+        "weight": 4.7859504412947025e-18,
+        "expected_return": 0.1687557370810938,
+        "price": 40135.0,
+        "shares": 1.1995030405420815e-14
+      },
+      {
+        "ticker": "FPT",
+        "weight": 0.382234033451827,
+        "expected_return": 0.05645634867937568,
+        "price": 73243.0,
+        "shares": 524.952069402998
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.411389620216248,
+        "expected_return": 0.06860029860232533,
+        "price": 65221.99999999999,
+        "shares": 634.4766459027417
+      },
+      {
+        "ticker": "MWG",
+        "weight": 7.41703050145159e-18,
+        "expected_return": 0.08066915167302763,
+        "price": 34823.0,
+        "shares": 2.1424974093674092e-14
+      }
+    ],
+    "transaction_cost": 284012.92328377784,
+    "portfolio_value_before_costs": 100874387.02488641,
+    "portfolio_value_after_costs": 100590374.10160264
+  },
+  {
+    "date": "2023-12-01",
+    "stocks": [
+      {
+        "ticker": "KDC",
+        "weight": 0.29264052266120516,
+        "expected_return": 0.02974955287573587,
+        "price": 61273.0,
+        "shares": 535.2514977153489
+      },
+      {
+        "ticker": "SSB",
+        "weight": 0.15748316881487262,
+        "expected_return": 0.02974018885577251,
+        "price": 19985.0,
+        "shares": 883.1257827957625
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.00517036747934328,
+        "expected_return": 0.037233404145983334,
+        "price": 42100.0,
+        "shares": 13.763595078081519
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.18190075532060745,
+        "expected_return": 0.051169136940053705,
+        "price": 75781.0,
+        "shares": 269.0089580691651
+      },
+      {
+        "ticker": "VJC",
+        "weight": 3.0265187541989865e-19,
+        "expected_return": 0.014492234685062937,
+        "price": 105400.0,
+        "shares": 3.218068841551223e-16
+      },
+      {
+        "ticker": "BWE",
+        "weight": 0.35731286581449506,
+        "expected_return": 0.014474441681764047,
+        "price": 36376.0,
+        "shares": 1100.845280383144
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.0054923199094765686,
+        "expected_return": 0.018383582769814357,
+        "price": 40900.0,
+        "shares": 15.049604583891051
+      }
+    ],
+    "transaction_cost": 549312.9775045107,
+    "portfolio_value_before_costs": 112620138.7171154,
+    "portfolio_value_after_costs": 112070825.7396109
+  },
+  {
+    "date": "2024-01-01",
+    "stocks": [
+      {
+        "ticker": "VCB",
+        "weight": 0.23578912145774583,
+        "expected_return": 0.022290686024665583,
+        "price": 53713.0,
+        "shares": 505.00936777894583
+      },
+      {
+        "ticker": "VNM",
+        "weight": 0.29877408267355055,
+        "expected_return": 0.00430378222876026,
+        "price": 61724.0,
+        "shares": 556.8573270932848
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.03672435113988577,
+        "expected_return": 0.061239269470778325,
+        "price": 90642.0,
+        "shares": 46.610067410580626
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.3553670629812273,
+        "expected_return": 0.004423317261832906,
+        "price": 39650.0,
+        "shares": 1031.0721601858177
+      },
+      {
+        "ticker": "VHM",
+        "weight": 3.5341321175071174e-18,
+        "expected_return": 0.026202568163474563,
+        "price": 43200.0,
+        "shares": 9.411397429088817e-15
+      },
+      {
+        "ticker": "VIC",
+        "weight": 8.349422308378033e-19,
+        "expected_return": 0.016896747269839137,
+        "price": 44600.0,
+        "shares": 2.153657553511506e-15
+      },
+      {
+        "ticker": "FPT",
+        "weight": 0.07334538174759053,
+        "expected_return": 0.0022461148192177826,
+        "price": 82419.0,
+        "shares": 102.37655512173039
+      }
+    ],
+    "transaction_cost": 668766.1223846264,
+    "portfolio_value_before_costs": 115710410.12957647,
+    "portfolio_value_after_costs": 115041644.00719185
+  },
+  {
+    "date": "2024-02-01",
+    "stocks": [
+      {
+        "ticker": "VIC",
+        "weight": 0.013036815191749882,
+        "expected_return": 0.037271457603749274,
+        "price": 42350.0,
+        "shares": 36.32855013719232
+      },
+      {
+        "ticker": "VCB",
+        "weight": 0.07851544182476508,
+        "expected_return": 0.019394284063415885,
+        "price": 60067.0,
+        "shares": 154.2585014772201
+      },
+      {
+        "ticker": "SSB",
+        "weight": 0.13486929480647075,
+        "expected_return": 0.01822951510495623,
+        "price": 20029.0,
+        "shares": 794.6644618460559
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.10512938821515264,
+        "expected_return": 0.060204617394729085,
+        "price": 93075.0,
+        "shares": 133.29721123259708
+      },
+      {
+        "ticker": "VHM",
+        "weight": 4.189931502859085e-19,
+        "expected_return": 0.024302068675857266,
+        "price": 41200.0,
+        "shares": 1.2001614653133045e-15
+      },
+      {
+        "ticker": "SAB",
+        "weight": 0.017732779882663554,
+        "expected_return": 0.009324535539906392,
+        "price": 53679.0,
+        "shares": 38.98543440113846
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.6507162800791981,
+        "expected_return": 0.005964461982604486,
+        "price": 39400.0,
+        "shares": 1949.0609563059459
+      }
+    ],
+    "transaction_cost": 376046.2003951039,
+    "portfolio_value_before_costs": 118389078.96039899,
+    "portfolio_value_after_costs": 118013032.76000388
+  },
+  {
+    "date": "2024-03-01",
+    "stocks": [
+      {
+        "ticker": "VPI",
+        "weight": 0.193020966285368,
+        "expected_return": 0.011931150822993704,
+        "price": 48248.0,
+        "shares": 484.7080601528071
+      },
+      {
+        "ticker": "SSB",
+        "weight": 0.15490828954366848,
+        "expected_return": 0.01539233150067966,
+        "price": 20205.0,
+        "shares": 928.904090821418
+      },
+      {
+        "ticker": "VIC",
+        "weight": 2.8703785862824433e-19,
+        "expected_return": 0.04551199833552065,
+        "price": 45250.0,
+        "shares": 7.685562692814536e-16
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.4155994373955335,
+        "expected_return": 0.0016860503531280116,
+        "price": 40150.0,
+        "shares": 1254.135533792957
+      },
+      {
+        "ticker": "VHM",
+        "weight": 8.72483708041457e-18,
+        "expected_return": 0.037410802006172375,
+        "price": 43950.0,
+        "shares": 2.4052128661365267e-14
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.05103331726883611,
+        "expected_return": 0.03343570949162647,
+        "price": 99941.0,
+        "shares": 61.86787227844401
+      },
+      {
+        "ticker": "BWE",
+        "weight": 0.1854379895065939,
+        "expected_return": 0.004637383038118956,
+        "price": 36248.0,
+        "shares": 619.8259183962117
+      }
+    ],
+    "transaction_cost": 290383.5767878194,
+    "portfolio_value_before_costs": 121449213.81328028,
+    "portfolio_value_after_costs": 121158830.23649247
+  },
+  {
+    "date": "2024-04-01",
+    "stocks": [
+      {
+        "ticker": "VPI",
+        "weight": 0.2188430447760928,
+        "expected_return": 0.01256665769817636,
+        "price": 48498.0,
+        "shares": 532.9295452833459
+      },
+      {
+        "ticker": "SSB",
+        "weight": 0.1213862495844748,
+        "expected_return": 0.025891028243411402,
+        "price": 19457.0,
+        "shares": 736.8082722925116
+      },
+      {
+        "ticker": "VIC",
+        "weight": 2.081443807009512e-19,
+        "expected_return": 0.026688688543135813,
+        "price": 47850.0,
+        "shares": 5.137402907422352e-16
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.5061565557542608,
+        "expected_return": 0.004530041540333256,
+        "price": 37400.0,
+        "shares": 1598.3583073835377
+      },
+      {
+        "ticker": "VHM",
+        "weight": 9.873380073393954e-18,
+        "expected_return": 0.028559158118213687,
+        "price": 42900.0,
+        "shares": 2.7181251051375427e-14
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.018927888779000576,
+        "expected_return": 0.05581864733379849,
+        "price": 97507.0,
+        "shares": 22.92594569001289
+      },
+      {
+        "ticker": "VNM",
+        "weight": 0.13468626110617107,
+        "expected_return": 0.000510409209035775,
+        "price": 61970.0,
+        "shares": 256.68629386145034
+      }
+    ],
+    "transaction_cost": 178177.8877063553,
+    "portfolio_value_before_costs": 118281164.04198794,
+    "portfolio_value_after_costs": 118102986.15428159
+  },
+  {
+    "date": "2024-05-01",
+    "stocks": [
+      {
+        "ticker": "SSB",
+        "weight": 0.11371511889462048,
+        "expected_return": 0.02464417287765755,
+        "price": 19369.0,
+        "shares": 693.6346927097002
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.5442089285953313,
+        "expected_return": 0.013509189108876267,
+        "price": 37750.0,
+        "shares": 1703.2111942204008
+      },
+      {
+        "ticker": "BWE",
+        "weight": 0.23760316533085585,
+        "expected_return": 0.017775922774371514,
+        "price": 35865.0,
+        "shares": 782.7105413062741
+      },
+      {
+        "ticker": "NT2",
+        "weight": 8.228462642594005e-05,
+        "expected_return": 0.025024414043186186,
+        "price": 20574.0,
+        "shares": 0.4725195288603612
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.0026414157402430962,
+        "expected_return": 0.0425185165137206,
+        "price": 94726.0,
+        "shares": 3.2944836667067507
+      },
+      {
+        "ticker": "SAB",
+        "weight": 0.1014357768618727,
+        "expected_return": 0.004297411479458343,
+        "price": 50785.0,
+        "shares": 235.9801641363513
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.0003133099506506943,
+        "expected_return": 0.007529714382162595,
+        "price": 40800.0,
+        "shares": 0.9072642978282814
+      }
+    ],
+    "transaction_cost": 268199.33752142236,
+    "portfolio_value_before_costs": 118414409.74200048,
+    "portfolio_value_after_costs": 118146210.40447906
+  },
+  {
+    "date": "2024-06-01",
+    "stocks": [
+      {
+        "ticker": "SSB",
+        "weight": 0.07219549918814214,
+        "expected_return": 0.032290660452473155,
+        "price": 18929.0,
+        "shares": 478.1921740153854
+      },
+      {
+        "ticker": "VIC",
+        "weight": 3.489441156257649e-17,
+        "expected_return": 0.05406771935565353,
+        "price": 43550.0,
+        "shares": 1.0045874112225703e-13
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.6066749485750923,
+        "expected_return": 0.007904092572432827,
+        "price": 39100.0,
+        "shares": 1945.3570198735092
+      },
+      {
+        "ticker": "VCB",
+        "weight": 0.1676197123519811,
+        "expected_return": 0.020640831349569014,
+        "price": 58328.0,
+        "shares": 360.3031157101563
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.03216649779733308,
+        "expected_return": 0.053841440976595364,
+        "price": 99014.0,
+        "shares": 40.731198093370985
+      },
+      {
+        "ticker": "VHM",
+        "weight": 1.8169923234479718e-17,
+        "expected_return": 0.009262545842154978,
+        "price": 38850.0,
+        "shares": 5.863839588516842e-14
+      },
+      {
+        "ticker": "FPT",
+        "weight": 0.12134334208745141,
+        "expected_return": 0.0013645255639687577,
+        "price": 115439.0,
+        "shares": 131.79028834245435
+      }
+    ],
+    "transaction_cost": 287235.2873049417,
+    "portfolio_value_before_costs": 125664852.50342,
+    "portfolio_value_after_costs": 125377617.21611506
+  },
+  {
+    "date": "2024-07-01",
+    "stocks": [
+      {
+        "ticker": "SSB",
+        "weight": 0.11868846580469732,
+        "expected_return": 0.05603097086696109,
+        "price": 18356.0,
+        "shares": 817.0354409274915
+      },
+      {
+        "ticker": "KDC",
+        "weight": 0.21208814439646023,
+        "expected_return": 0.02543699603363953,
+        "price": 54851.0,
+        "shares": 488.5874092737622
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.0,
+        "expected_return": 0.030637958801342617,
+        "price": 41350.0,
+        "shares": 0.0
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.06505517300504253,
+        "expected_return": 0.08153108856656885,
+        "price": 90679.0,
+        "shares": 90.65370169706686
+      },
+      {
+        "ticker": "NT2",
+        "weight": 1.6894300085807403e-17,
+        "expected_return": 0.028629134445349477,
+        "price": 21103.0,
+        "shares": 1.011594439881455e-13
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.5762235839086838,
+        "expected_return": 0.007165785458656536,
+        "price": 39350.0,
+        "shares": 1850.3620856772357
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.027944632885116158,
+        "expected_return": 0.01854134148177262,
+        "price": 37700.0,
+        "shares": 93.6628755242247
+      }
+    ],
+    "transaction_cost": 242632.6906259894,
+    "portfolio_value_before_costs": 126602868.72521698,
+    "portfolio_value_after_costs": 126360236.03459099
+  },
+  {
+    "date": "2024-08-01",
+    "stocks": [
+      {
+        "ticker": "NT2",
+        "weight": 0.0,
+        "expected_return": 0.05195676208743124,
+        "price": 18603.0,
+        "shares": 0.0
+      },
+      {
+        "ticker": "SSB",
+        "weight": 0.16675574317217562,
+        "expected_return": 0.02711975828630165,
+        "price": 19325.0,
+        "shares": 1102.3243858373294
+      },
+      {
+        "ticker": "VHM",
+        "weight": 7.236190232915537e-18,
+        "expected_return": 0.03954856751400382,
+        "price": 36450.0,
+        "shares": 2.5360660505309725e-14
+      },
+      {
+        "ticker": "IMP",
+        "weight": 0.073864761439883,
+        "expected_return": 0.015071594604982298,
+        "price": 39750.0,
+        "shares": 237.38227297947566
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.06343084363179395,
+        "expected_return": 0.0388707217649069,
+        "price": 87747.0,
+        "shares": 92.34562560011825
+      },
+      {
+        "ticker": "VIC",
+        "weight": 1.0493732277701214e-17,
+        "expected_return": 0.01468393486653683,
+        "price": 42100.0,
+        "shares": 3.184168206261398e-14
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.6959486517561475,
+        "expected_return": 0.004100967726320987,
+        "price": 39300.0,
+        "shares": 2262.2092033217114
+      }
+    ],
+    "transaction_cost": 185493.6718916689,
+    "portfolio_value_before_costs": 127931731.07920906,
+    "portfolio_value_after_costs": 127746237.40731739
+  },
+  {
+    "date": "2024-09-01",
+    "stocks": [
+      {
+        "ticker": "SSB",
+        "weight": 0.14915820669526184,
+        "expected_return": 0.030433412651634982,
+        "price": 19200.0,
+        "shares": 1015.9266006158007
+      },
+      {
+        "ticker": "NT2",
+        "weight": 0.04298271557100433,
+        "expected_return": 0.05455445238074067,
+        "price": 18940.0,
+        "shares": 296.77702883496585
+      },
+      {
+        "ticker": "VHM",
+        "weight": 1.430293019061677e-20,
+        "expected_return": 0.026045941013887942,
+        "price": 41500.0,
+        "shares": 4.5070598952652673e-17
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.03969164088331221,
+        "expected_return": 0.02067832940371877,
+        "price": 44200.0,
+        "shares": 117.43382082271577
+      },
+      {
+        "ticker": "BMP",
+        "weight": 0.033460063174216216,
+        "expected_return": 0.04741520143539237,
+        "price": 95258.0,
+        "shares": 45.93478679006386
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.6922666099411537,
+        "expected_return": 0.0006238480408990554,
+        "price": 40000.0,
+        "shares": 2263.2357822135655
+      },
+      {
+        "ticker": "PPC",
+        "weight": 0.04244076373505175,
+        "expected_return": 0.008687933107767052,
+        "price": 12037.0,
+        "shares": 461.0853645233266
+      }
+    ],
+    "transaction_cost": 98243.44848078038,
+    "portfolio_value_before_costs": 130870737.72816023,
+    "portfolio_value_after_costs": 130772494.27967945
+  },
+  {
+    "date": "2024-10-01",
+    "stocks": [
+      {
+        "ticker": "SSB",
+        "weight": 0.23229600747586934,
+        "expected_return": 0.05724477118877145,
+        "price": 17450.0,
+        "shares": 1643.0516674576966
+      },
+      {
+        "ticker": "VIC",
+        "weight": 2.3993759800407477e-16,
+        "expected_return": 0.04085484322692694,
+        "price": 42300.0,
+        "shares": 7.001044622404777e-13
+      },
+      {
+        "ticker": "IMP",
+        "weight": 0.17981007850759537,
+        "expected_return": 0.024656054884990227,
+        "price": 50100.0,
+        "shares": 442.97703407448824
+      },
+      {
+        "ticker": "KDC",
+        "weight": 0.333055539262621,
+        "expected_return": 0.012801208651761977,
+        "price": 50996.0,
+        "shares": 806.0935662164179
+      },
+      {
+        "ticker": "NT2",
+        "weight": 0.25483837475391413,
+        "expected_return": 0.04942656295914045,
+        "price": 19084.0,
+        "shares": 1648.163625031777
+      },
+      {
+        "ticker": "VHM",
+        "weight": 1.8302201798012424e-16,
+        "expected_return": 0.052119916009011974,
+        "price": 43450.0,
+        "shares": 5.198983809561032e-13
+      },
+      {
+        "ticker": "BMP",
+        "weight": 1.0771650350905475e-18,
+        "expected_return": 0.06522161848896048,
+        "price": 107166.0,
+        "shares": 1.240595304546427e-15
+      }
+    ],
+    "transaction_cost": 601176.4739816734,
+    "portfolio_value_before_costs": 124026679.60112925,
+    "portfolio_value_after_costs": 123425503.12714757
+  },
+  {
+    "date": "2024-11-01",
+    "stocks": [
+      {
+        "ticker": "SSB",
+        "weight": 4.907048196192621e-17,
+        "expected_return": 0.0797020033347043,
+        "price": 16950.0,
+        "shares": 3.41719409063225e-13
+      },
+      {
+        "ticker": "KDC",
+        "weight": 0.20947748513315084,
+        "expected_return": 0.019207646020741695,
+        "price": 50700.0,
+        "shares": 487.69512866683505
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.36163885262038753,
+        "expected_return": 0.009517007575255417,
+        "price": 38750.0,
+        "shares": 1101.596129827727
+      },
+      {
+        "ticker": "NT2",
+        "weight": 2.4924673207115613e-17,
+        "expected_return": 0.06791438685244736,
+        "price": 18170.0,
+        "shares": 1.6191741853545723e-13
+      },
+      {
+        "ticker": "VNM",
+        "weight": 0.2793505271378822,
+        "expected_return": 0.007013634999278214,
+        "price": 62976.0,
+        "shares": 523.592537853133
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.1495331351085795,
+        "expected_return": 0.027572447454240985,
+        "price": 41200.0,
+        "shares": 428.40965354278944
+      },
+      {
+        "ticker": "PNJ",
+        "weight": 3.015394719222049e-18,
+        "expected_return": 0.009975615093316152,
+        "price": 90842.0,
+        "shares": 3.918108951961839e-15
+      }
+    ],
+    "transaction_cost": 562534.7267249809,
+    "portfolio_value_before_costs": 118599769.17075975,
+    "portfolio_value_after_costs": 118037234.44403477
+  },
+  {
+    "date": "2024-12-01",
+    "stocks": [
+      {
+        "ticker": "SSB",
+        "weight": 2.5124824056742387e-18,
+        "expected_return": 0.06445379365308626,
+        "price": 17000.0,
+        "shares": 1.7328725016501398e-14
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.4714449942513919,
+        "expected_return": 0.00990583216907876,
+        "price": 38700.0,
+        "shares": 1428.3431820520925
+      },
+      {
+        "ticker": "NT2",
+        "weight": 0.011709370909814392,
+        "expected_return": 0.046304596352315285,
+        "price": 18795.0,
+        "shares": 73.04722722241522
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.11545773004562171,
+        "expected_return": 0.03673360723036328,
+        "price": 40500.0,
+        "shares": 334.2569868327129
+      },
+      {
+        "ticker": "KDC",
+        "weight": 0.22225718833371838,
+        "expected_return": 0.004505493852698971,
+        "price": 51500.0,
+        "shares": 506.0123181721271
+      },
+      {
+        "ticker": "PPC",
+        "weight": 0.0064174000178007125,
+        "expected_return": 0.007207415555024185,
+        "price": 10905.0,
+        "shares": 68.99949998072456
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.17271331644165303,
+        "expected_return": 0.034892823912349685,
+        "price": 40800.0,
+        "shares": 496.33872734560725
+      }
+    ],
+    "transaction_cost": 220910.4003624143,
+    "portfolio_value_before_costs": 117470816.15700367,
+    "portfolio_value_after_costs": 117249905.75664125
+  },
+  {
+    "date": "2025-01-01",
+    "stocks": [
+      {
+        "ticker": "SSB",
+        "weight": 0.16686357769767424,
+        "expected_return": 0.07698777778231689,
+        "price": 16750.0,
+        "shares": 1193.125310456262
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.16663833701683042,
+        "expected_return": 0.033321260023315716,
+        "price": 40550.0,
+        "shares": 492.17934441678494
+      },
+      {
+        "ticker": "IMP",
+        "weight": 0.1333376877093038,
+        "expected_return": 0.02520636452174375,
+        "price": 47000.0,
+        "shares": 339.7773154291237
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.2961651980726571,
+        "expected_return": 0.008268283154471598,
+        "price": 38450.0,
+        "shares": 922.5225671822151
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.0888453167117794,
+        "expected_return": 0.023802482709288773,
+        "price": 40000.0,
+        "shares": 266.01974183207574
+      },
+      {
+        "ticker": "NT2",
+        "weight": 0.10710070833983332,
+        "expected_return": 0.019002001735979098,
+        "price": 20141.0,
+        "shares": 636.869766933354
+      },
+      {
+        "ticker": "TLG",
+        "weight": 0.04104917445192183,
+        "expected_return": 0.045392698236455746,
+        "price": 63864.0,
+        "shares": 76.98172353226323
+      }
+    ],
+    "transaction_cost": 351580.9289975636,
+    "portfolio_value_before_costs": 120119173.26931772,
+    "portfolio_value_after_costs": 119767592.34032016
+  },
+  {
+    "date": "2025-02-01",
+    "stocks": [
+      {
+        "ticker": "SSB",
+        "weight": 4.1853605307533427e-16,
+        "expected_return": 0.022669600052303927,
+        "price": 18750.0,
+        "shares": 2.694145105423789e-12
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.3918073318638694,
+        "expected_return": 0.007633931098511772,
+        "price": 39050.0,
+        "shares": 1210.9909594482142
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.18148295329381514,
+        "expected_return": 0.034175423725443785,
+        "price": 40400.0,
+        "shares": 542.1804496230586
+      },
+      {
+        "ticker": "NT2",
+        "weight": 1.7103762290398568e-16,
+        "expected_return": 0.03999554935107843,
+        "price": 19600.0,
+        "shares": 1.0532342203500716e-12
+      },
+      {
+        "ticker": "IMP",
+        "weight": 0.13491141107967636,
+        "expected_return": 0.01412532144452302,
+        "price": 44200.0,
+        "shares": 368.39675484469166
+      },
+      {
+        "ticker": "PPC",
+        "weight": 3.9208695620726704e-18,
+        "expected_return": -0.0008165538768147399,
+        "price": 11300.0,
+        "shares": 4.1878713481825883e-14
+      },
+      {
+        "ticker": "VJC",
+        "weight": 0.29179830376263866,
+        "expected_return": -0.004859202092857796,
+        "price": 99800.0,
+        "shares": 352.8918286571706
+      }
+    ],
+    "transaction_cost": 293172.88165639096,
+    "portfolio_value_before_costs": 120988201.07700178,
+    "portfolio_value_after_costs": 120695028.19534539
+  },
+  {
+    "date": "2025-03-01",
+    "stocks": [
+      {
+        "ticker": "SSB",
+        "weight": 0.10585186362094264,
+        "expected_return": 0.024835729639964606,
+        "price": 19400.0,
+        "shares": 662.2397811155233
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.1926081802887552,
+        "expected_return": 0.02251752043251432,
+        "price": 41200.0,
+        "shares": 567.408711105294
+      },
+      {
+        "ticker": "KOS",
+        "weight": 0.3495105795656775,
+        "expected_return": 0.003347691776483785,
+        "price": 39450.0,
+        "shares": 1075.3053474584583
+      },
+      {
+        "ticker": "NT2",
+        "weight": 5.981629607046159e-17,
+        "expected_return": 0.024327338649839096,
+        "price": 20700.0,
+        "shares": 3.50725754892247e-13
+      },
+      {
+        "ticker": "SAB",
+        "weight": 0.010498731949875762,
+        "expected_return": 0.008945248305604937,
+        "price": 51500.0,
+        "shares": 24.742757882819827
+      },
+      {
+        "ticker": "IMP",
+        "weight": 0.10829138901445097,
+        "expected_return": 0.014001319025155438,
+        "price": 47900.0,
+        "shares": 274.39544498964193
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.2332392555602979,
+        "expected_return": 0.02333028354112398,
+        "price": 41200.0,
+        "shares": 687.104697101763
+      }
+    ],
+    "transaction_cost": 263254.0078740983,
+    "portfolio_value_before_costs": 121635247.98285125,
+    "portfolio_value_after_costs": 121371993.97497715
+  },
+  {
+    "date": "2025-04-01",
+    "stocks": [
+      {
+        "ticker": "SAB",
+        "weight": 4.256800696132098e-18,
+        "expected_return": 0.03361992614837698,
+        "price": 49350.0,
+        "shares": 1.1892320728178391e-14
+      },
+      {
+        "ticker": "FPT",
+        "weight": 1.6752146789398826e-16,
+        "expected_return": 0.02637064912907044,
+        "price": 120500.0,
+        "shares": 1.916698823658546e-13
+      },
+      {
+        "ticker": "SSB",
+        "weight": 0.25050456557075435,
+        "expected_return": 0.02446957583724197,
+        "price": 19550.0,
+        "shares": 1766.6045195766487
+      },
+      {
+        "ticker": "IMP",
+        "weight": 0.1705902635384609,
+        "expected_return": 0.03762304547972083,
+        "price": 45000.0,
+        "shares": 522.6514742426451
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.08021036319351975,
+        "expected_return": 0.04953594700402479,
+        "price": 53000.0,
+        "shares": 208.6532081661864
+      },
+      {
+        "ticker": "NT2",
+        "weight": 0.3269307618408632,
+        "expected_return": 0.03279491087871515,
+        "price": 19950.0,
+        "shares": 2259.3490968691785
+      },
+      {
+        "ticker": "VIC",
+        "weight": 0.17176404585640156,
+        "expected_return": 0.030318292615742714,
+        "price": 59700.0,
+        "shares": 396.66911158564295
+      }
+    ],
+    "transaction_cost": 443058.0824820683,
+    "portfolio_value_before_costs": 138313273.2581355,
+    "portfolio_value_after_costs": 137870215.17565343
+  },
+  {
+    "date": "2025-05-01",
+    "stocks": [
+      {
+        "ticker": "VJC",
+        "weight": 0.10609418536765315,
+        "expected_return": 0.08858144772202974,
+        "price": 86000.0,
+        "shares": 164.59226931603752
+      },
+      {
+        "ticker": "VNM",
+        "weight": 0.09133267497049243,
+        "expected_return": 0.031875735890469055,
+        "price": 55561.0,
+        "shares": 219.31706521747418
+      },
+      {
+        "ticker": "SAB",
+        "weight": 0.15555241083477075,
+        "expected_return": 0.04839437762328276,
+        "price": 48100.0,
+        "shares": 431.46738435198773
+      },
+      {
+        "ticker": "SSB",
+        "weight": 0.4631561466808662,
+        "expected_return": 0.041927906541505015,
+        "price": 18400.0,
+        "shares": 3358.349656307871
+      },
+      {
+        "ticker": "NT2",
+        "weight": 0.09878701418565841,
+        "expected_return": 0.08053922046469829,
+        "price": 17600.0,
+        "shares": 748.8649309995441
+      },
+      {
+        "ticker": "VHM",
+        "weight": 0.04784465007574542,
+        "expected_return": 0.08584136913900525,
+        "price": 58400.0,
+        "shares": 109.30419682785798
+      },
+      {
+        "ticker": "FPT",
+        "weight": 0.03723291788481369,
+        "expected_return": 0.014321702289043947,
+        "price": 109400.0,
+        "shares": 45.4073390693249
+      }
+    ],
+    "transaction_cost": 484351.3426248987,
+    "portfolio_value_before_costs": 133902927.60227066,
+    "portfolio_value_after_costs": 133418576.25964576
+  },
+  {
+    "date": "2025-06-01",
+    "stocks": [
+      {
+        "ticker": "VJC",
+        "weight": 0.06895042327881112,
+        "expected_return": 0.07643442280961668,
+        "price": 87000.0,
+        "shares": 108.32198601230195
+      },
+      {
+        "ticker": "VNM",
+        "weight": 0.06659870253082596,
+        "expected_return": 0.04418831513956027,
+        "price": 54900.0,
+        "shares": 165.8029883737294
+      },
+      {
+        "ticker": "SSB",
+        "weight": 0.3953045076424921,
+        "expected_return": 0.04109679283439281,
+        "price": 18400.0,
+        "shares": 2936.384165982665
+      },
+      {
+        "ticker": "SAB",
+        "weight": 0.09952189573627339,
+        "expected_return": 0.03499877698981879,
+        "price": 48750.0,
+        "shares": 279.02489279989237
+      },
+      {
+        "ticker": "NT2",
+        "weight": 0.0678853765294404,
+        "expected_return": 0.04891826987373111,
+        "price": 18650.0,
+        "shares": 497.50371141861524
+      },
+      {
+        "ticker": "IMP",
+        "weight": 0.10892008861722823,
+        "expected_return": 0.02044590715872962,
+        "price": 52000.0,
+        "shares": 286.2882819529751
+      },
+      {
+        "ticker": "BWE",
+        "weight": 0.19281900566492885,
+        "expected_return": 0.013593062990963183,
+        "price": 50500.0,
+        "shares": 521.864062509981
+      }
+    ],
+    "transaction_cost": 247895.55358875115,
+    "portfolio_value_before_costs": 136925994.61271846,
+    "portfolio_value_after_costs": 136678099.05912971
+  }
+]

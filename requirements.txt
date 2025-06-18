@@ -3,3 +3,6 @@ pandas
 requests
 bs4
 regex
+tensorflow
+keras
+numpy

@@ -374,8 +374,8 @@ if __name__ == "__main__":
     category_url = "https://cafef.vn/thi-truong-chung-khoan.chn"
     
     # Number of articles to extract and pages to crawl
-    max_articles = 1000  # Adjust this number as needed
-    pages_to_crawl = 10   # Adjust this number as needed
+    max_articles = 10000000 # Adjust this number as needed
+    pages_to_crawl = 2500    # Adjust this number as needed
     
     # Output file
     output_file = "cafef_stock_articles.json"

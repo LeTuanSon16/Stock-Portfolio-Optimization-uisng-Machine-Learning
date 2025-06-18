@@ -22,9 +22,7 @@ def get_currentprice(urlPrice, symbol, resolution):
             "highest_price": priceParsed["h"],
             "lowest_price": priceParsed["l"],
             "close_price": priceParsed["c"],
-            "volume": priceParsed["v"],
-            "created_at": pd.to_datetime(datetime.now()),
-            "updated_at": pd.to_datetime(datetime.now())
+            "volume": priceParsed["v"]
         }
     )
     return df
@@ -57,16 +55,17 @@ def process(startdate, enddate, resolution, urlPrice):
         "VIB", "VIC", "VIX", "VJC", "VND", "VNM", "VPB", "VPI", "VRE", "VTP"
     ]
     df = aggregate_data(startdate, enddate, resolution, urlPrice, tickers)
-    df.to_csv("VN100_stock_price_1D.csv", index=False)
+    df.to_csv("data/VN100_stock_price_1D.csv", index=False)
 
 urlPrice = "https://banggia.tvs.vn/datafeed/history?"
+# urlPrice = 'https://api.dnse.com.vn/chart-api/v2/ohlcs/stock?'
 timezone = pytz.timezone('Asia/Bangkok')
 
 today = datetime.now(timezone)
 # startdate = datetime(today.year, today.month, today.day, 8, 0, 0, tzinfo=timezone)
 # enddate = datetime(today.year, today.month, today.day, 16, 0, 0, tzinfo=timezone)
 startdate = datetime(2018,1,1,8,0,0,tzinfo=timezone)
-enddate = datetime(2025,3,22 ,16,0,0,tzinfo=timezone)
+enddate = datetime(2025,6,2,16,0,0,tzinfo=timezone)
 # process(startdate, enddate, "1", urlPrice)
 # process(startdate,enddate,"5",urlPrice)
 # process(startdate,enddate,"15",urlPrice)
